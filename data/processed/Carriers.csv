@@ -1,0 +1,6 @@
+CarrierID,CarrierName,PrimaryMode,CostMultiplier
+CR01,Southern Road Freight,Road,1.0
+CR02,Metro Express,Road,1.22
+CR03,Coastline Transport,Road,0.88
+CR04,Priority Freight NZ,Air,2.25
+CR05,Interisland Logistics,Road,1.3

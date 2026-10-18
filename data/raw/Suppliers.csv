@@ -1,0 +1,65 @@
+SupplierID,SupplierName,Region,ContractLeadTimeDays,SupplierTier,ExpectedLateFraction
+SUP001,Fictional Supplier 001,Waikato,20,B,0.064
+SUP002,Fictional Supplier 002,Auckland,25,B,0.015
+SUP003,Fictional Supplier 003,Canterbury,21,C,0.13
+SUP004,Fictional Supplier 004,Auckland,21,A,0.118
+SUP005,Fictional Supplier 005,Auckland,20,C,0.013
+SUP006,Fictional Supplier 006,Bay of Plenty,20,B,0.01
+SUP007,Fictional Supplier 007,Canterbury,26,A,0.132
+SUP008,Fictional Supplier 008,Canterbury,27,C,0.112
+SUP009,Fictional Supplier 009,Auckland,15,A,0.044
+SUP010,Fictional Supplier 010,Waikato,8,C,0.026
+SUP011,Fictional Supplier 011,Auckland,14,A,0.117
+SUP012,Fictional Supplier 012,Canterbury,22,A,0.034
+SUP013,Fictional Supplier 013,Canterbury,24,A,0.125
+SUP014,Fictional Supplier 014,Canterbury,5,C,0.029
+SUP015,Fictional Supplier 015,Auckland,27,C,0.027
+SUP016,Fictional Supplier 016,Auckland,6,C,0.03
+SUP017,Fictional Supplier 017,Wellington,18,A,0.129
+SUP018,Fictional Supplier 018,Auckland,14,C,0.078
+SUP019,Fictional Supplier 019,Auckland,5,C,0.045
+SUP020,Fictional Supplier 020,Waikato,24,A,0.013
+SUP021,Fictional Supplier 021,Canterbury,18,A,0.017
+SUP022,Fictional Supplier 022,Canterbury,21,A,0.079
+SUP023,Fictional Supplier 023,Bay of Plenty,23,C,0.096
+SUP024,Fictional Supplier 024,Auckland,17,B,0.102
+SUP025,Fictional Supplier 025,Auckland,14,C,0.131
+SUP026,Fictional Supplier 026,Auckland,33,A,0.081
+SUP027,Fictional Supplier 027,Wellington,5,C,0.025
+SUP028,Fictional Supplier 028,Waikato,22,C,0.018
+SUP029,Fictional Supplier 029,Wellington,14,B,0.059
+SUP030,Fictional Supplier 030,Canterbury,26,B,0.099
+SUP031,Fictional Supplier 031,Canterbury,7,A,0.057
+SUP032,Fictional Supplier 032,Auckland,6,C,0.109
+SUP033,Fictional Supplier 033,Wellington,15,C,0.127
+SUP034,Fictional Supplier 034,Waikato,22,A,0.081
+SUP035,Fictional Supplier 035,Auckland,19,A,0.076
+SUP036,Fictional Supplier 036,Canterbury,23,A,0.149
+SUP037,Fictional Supplier 037,Bay of Plenty,24,B,0.129
+SUP038,Fictional Supplier 038,Waikato,17,A,0.086
+SUP039,Fictional Supplier 039,Auckland,33,B,0.018
+SUP040,Fictional Supplier 040,Bay of Plenty,23,C,0.088
+SUP041,Fictional Supplier 041,Wellington,20,A,0.133
+SUP042,Fictional Supplier 042,Auckland,10,C,0.118
+SUP043,Fictional Supplier 043,Auckland,12,C,0.011
+SUP044,Fictional Supplier 044,Waikato,21,A,0.145
+SUP045,Fictional Supplier 045,Waikato,20,C,0.09
+SUP046,Fictional Supplier 046,Canterbury,23,A,0.11
+SUP047,Fictional Supplier 047,Canterbury,27,C,0.04
+SUP048,Fictional Supplier 048,Bay of Plenty,8,C,0.098
+SUP049,Fictional Supplier 049,Waikato,19,B,0.023
+SUP050,Fictional Supplier 050,Canterbury,13,B,0.025
+SUP051,Fictional Supplier 051,Waikato,15,C,0.078
+SUP052,Fictional Supplier 052,Wellington,39,B,0.113
+SUP053,Fictional Supplier 053,Waikato,12,C,0.047
+SUP054,Fictional Supplier 054,Bay of Plenty,26,C,0.146
+SUP055,Fictional Supplier 055,Wellington,11,B,0.121
+SUP056,Fictional Supplier 056,Bay of Plenty,17,A,0.028
+SUP057,Fictional Supplier 057,Auckland,11,A,0.149
+SUP058,Fictional Supplier 058,Waikato,15,A,0.12
+SUP059,Fictional Supplier 059,Canterbury,10,C,0.149
+SUP060,Fictional Supplier 060,Canterbury,23,B,0.065
+SUP061,Fictional Supplier 061,Waikato,23,B,0.109
+SUP062,Fictional Supplier 062,Wellington,21,A,0.079
+SUP063,Fictional Supplier 063,Wellington,9,C,0.073
+SUP064,Fictional Supplier 064,Wellington,23,C,0.148

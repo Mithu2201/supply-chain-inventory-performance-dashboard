@@ -1,0 +1,6 @@
+CarrierID,CarrierName,Shipments,Delivered,FreightNZD,CostPerShipmentNZD,OnTimePct
+CR01,Southern Road Freight,19286,19234,2598450.37,134.73,91.63
+CR02,Metro Express,14734,14681,2422932.1,164.44,91.59
+CR03,Coastline Transport,13771,13719,1631344.25,118.46,83.01
+CR04,Priority Freight NZ,3573,3562,1082492.77,302.96,96.83
+CR05,Interisland Logistics,9074,9040,1588588.51,175.07,83.13

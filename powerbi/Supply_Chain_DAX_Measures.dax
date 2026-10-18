@@ -1,0 +1,178 @@
+// End-to-End Supply Chain Dashboard — Power BI Desktop > Modeling > New measure
+// Add EACH measure individually. Percentage measures return 0–1: format as Percentage.
+// Views are created by sql/04_build_star_views.sql.
+// Date model: DimDate[Date] to FactOrders[OrderDate], FactInventory[SnapshotDate],
+// FactPurchasing[PODate], FactShipments[DeliveryDate], FactWarehouseOperations[WorkDate],
+// FactStockCounts[CountDate], single direction from dimension to fact.
+// For inventory metrics use FULL MONTH filters; 24 months => annualisation denominator 2.
+
+// 01 SALES & MARGIN
+Net Sales = SUM ( FactOrders[NetSalesNZD] )
+
+COGS = SUM ( FactOrders[COGSNZD] )
+
+Gross Profit = [Net Sales] - [COGS]
+
+Profit Margin % = DIVIDE ( [Gross Profit], [Net Sales] )
+
+Sales Target = SUM ( SalesTargets[TargetSalesNZD] )
+// SalesTargets is a standalone month-region aggregate; connect a MonthRegion key or use TREATAS.
+// Avoid direct joining SalesTargets[YearMonth] to DimDate[YearMonth] (many-to-many).
+
+// 02 INVENTORY — inventory is SEMI-ADDITIVE across snapshot dates.
+// This returns the last available month-end snapshot on or before selected date.
+Inventory Value =
+VAR SelectionEnd = MAX ( DimDate[Date] )
+VAR SnapshotDay =
+    CALCULATE (
+        MAX ( FactInventory[SnapshotDate] ),
+        REMOVEFILTERS ( DimDate ),
+        FactInventory[SnapshotDate] <= SelectionEnd
+    )
+RETURN
+    CALCULATE (
+        SUM ( FactInventory[InventoryValueNZD] ),
+        REMOVEFILTERS ( DimDate ),
+        FactInventory[SnapshotDate] = SnapshotDay
+    )
+
+Inventory Units =
+VAR SelectionEnd = MAX ( DimDate[Date] )
+VAR SnapshotDay = CALCULATE ( MAX ( FactInventory[SnapshotDate] ), REMOVEFILTERS ( DimDate ), FactInventory[SnapshotDate] <= SelectionEnd )
+RETURN CALCULATE ( SUM ( FactInventory[InventoryQuantity] ), REMOVEFILTERS ( DimDate ), FactInventory[SnapshotDate] = SnapshotDay )
+
+Average Inventory Value =
+AVERAGEX (
+    VALUES ( DimDate[YearMonth] ),
+    [Inventory Value]
+)
+
+Inventory Turnover =
+VAR YearsSelected = DIVIDE ( DISTINCTCOUNT ( DimDate[YearMonth] ), 12 )
+VAR AnnualisedCOGS = DIVIDE ( [COGS], YearsSelected )
+RETURN DIVIDE ( AnnualisedCOGS, [Average Inventory Value] )
+
+Days Inventory Outstanding = DIVIDE ( 365, [Inventory Turnover] )
+
+Slow-Moving Inventory =
+VAR SelectionEnd = MAX ( DimDate[Date] )
+VAR SnapshotDay = CALCULATE ( MAX ( FactInventory[SnapshotDate] ), REMOVEFILTERS ( DimDate ), FactInventory[SnapshotDate] <= SelectionEnd )
+RETURN CALCULATE (
+    SUM ( FactInventory[InventoryValueNZD] ),
+    REMOVEFILTERS ( DimDate ),
+    FactInventory[SnapshotDate] = SnapshotDay,
+    FactInventory[DaysSinceMovement] > 90
+)
+
+Stock Ageing 90+ % = DIVIDE ( [Slow-Moving Inventory], [Inventory Value] )
+
+Excess Inventory Units =
+VAR SelectionEnd = MAX ( DimDate[Date] )
+VAR SnapshotDay = CALCULATE ( MAX ( FactInventory[SnapshotDate] ), REMOVEFILTERS ( DimDate ), FactInventory[SnapshotDate] <= SelectionEnd )
+RETURN CALCULATE ( SUM ( FactInventory[ExcessQuantity] ), REMOVEFILTERS ( DimDate ), FactInventory[SnapshotDate] = SnapshotDay )
+
+Stockout Rate % =
+VAR SelectionEnd = MAX ( DimDate[Date] )
+VAR SnapshotDay = CALCULATE ( MAX ( FactInventory[SnapshotDate] ), REMOVEFILTERS ( DimDate ), FactInventory[SnapshotDate] <= SelectionEnd )
+VAR StockoutPoints = CALCULATE ( SUM ( FactInventory[StockoutFlag] ), REMOVEFILTERS ( DimDate ), FactInventory[SnapshotDate] = SnapshotDay )
+VAR Observations = CALCULATE ( COUNTROWS ( FactInventory ), REMOVEFILTERS ( DimDate ), FactInventory[SnapshotDate] = SnapshotDay )
+RETURN DIVIDE ( StockoutPoints, Observations )
+
+Inventory Accuracy % =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( FactStockCounts ), FactStockCounts[SystemQuantity] = FactStockCounts[PhysicalQuantity] ),
+    COUNTROWS ( FactStockCounts )
+)
+
+// 03 CUSTOMER SERVICE — FactShipments is ONE ROW per shipment/order in this simulation.
+Delivered Orders = CALCULATE ( COUNTROWS ( FactShipments ), FactShipments[ShipmentStatus] = "Delivered" )
+
+OTIF Orders =
+CALCULATE (
+    COUNTROWS ( FactShipments ),
+    FactShipments[ShipmentStatus] = "Delivered",
+    FactShipments[OnTimeFlag] = 1,
+    FactShipments[InFullFlag] = 1
+)
+
+OTIF % = DIVIDE ( [OTIF Orders], [Delivered Orders] )
+
+On-Time Delivery % =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( FactShipments ), FactShipments[ShipmentStatus] = "Delivered", FactShipments[OnTimeFlag] = 1 ),
+    [Delivered Orders]
+)
+
+In-Full Delivery % =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( FactShipments ), FactShipments[ShipmentStatus] = "Delivered", FactShipments[InFullFlag] = 1 ),
+    [Delivered Orders]
+)
+
+Order Cycle Time =
+AVERAGEX (
+    FILTER ( FactShipments, FactShipments[ShipmentStatus] = "Delivered" ),
+    FactShipments[OrderCycleDays]
+)
+
+Ordered Units = SUM ( FactOrders[QuantityOrdered] )
+
+Shipped Units = SUM ( FactOrders[QuantityShipped] )
+
+Backorder Quantity = SUM ( FactOrders[QuantityBackordered] )
+
+Backorder Rate % = DIVIDE ( [Backorder Quantity], [Ordered Units] )
+
+Fill Rate % = DIVIDE ( [Shipped Units], [Ordered Units] )
+
+Demand-Line Stockout Rate % =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( FactOrders ), FactOrders[QuantityBackordered] > 0 ),
+    COUNTROWS ( FactOrders )
+)
+
+// 04 SUPPLIER — order-date cohort; only received PO lines are eligible.
+Received Purchase Lines =
+CALCULATE ( COUNTROWS ( FactPurchasing ), NOT ISBLANK ( FactPurchasing[GoodsReceiptDate] ) )
+
+Supplier Lead Time =
+CALCULATE ( AVERAGE ( FactPurchasing[ActualLeadTimeDays] ), NOT ISBLANK ( FactPurchasing[GoodsReceiptDate] ) )
+
+Supplier On-Time Delivery % =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( FactPurchasing ),
+        NOT ISBLANK ( FactPurchasing[GoodsReceiptDate] ),
+        FactPurchasing[SupplierOnTimeFlag] = 1 ),
+    [Received Purchase Lines]
+)
+
+Supplier OTIF % =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( FactPurchasing ),
+        NOT ISBLANK ( FactPurchasing[GoodsReceiptDate] ),
+        FactPurchasing[SupplierOnTimeFlag] = 1,
+        FactPurchasing[QuantityReceived] >= FactPurchasing[QuantityOrdered] ),
+    [Received Purchase Lines]
+)
+
+Purchase Value = SUM ( FactPurchasing[PurchaseValueNZD] )
+
+// 05 WAREHOUSE
+Warehouse Productivity = DIVIDE ( SUM ( FactWarehouseOperations[LinesPicked] ), SUM ( FactWarehouseOperations[LabourHours] ) )
+
+Units Picked Per Labour Hour = DIVIDE ( SUM ( FactWarehouseOperations[UnitsPicked] ), SUM ( FactWarehouseOperations[LabourHours] ) )
+
+Lines Picked = SUM ( FactWarehouseOperations[LinesPicked] )
+
+Units Picked = SUM ( FactWarehouseOperations[UnitsPicked] )
+
+Labour Hours = SUM ( FactWarehouseOperations[LabourHours] )
+
+// 06 TRANSPORT: use shipment-grain fact, never OrderLines join multiplication.
+Transportation Cost = SUM ( FactShipments[FreightCostNZD] )
+
+Transportation Cost Per Order = DIVIDE ( [Transportation Cost], COUNTROWS ( FactShipments ) )
+
+Transportation Cost % of Sales = DIVIDE ( [Transportation Cost], [Net Sales] )
+
+Transportation Cost Per Delivered Order = DIVIDE ( CALCULATE ( [Transportation Cost], FactShipments[ShipmentStatus] = "Delivered" ), [Delivered Orders] )

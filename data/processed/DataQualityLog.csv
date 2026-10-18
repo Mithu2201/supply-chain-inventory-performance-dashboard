@@ -1,0 +1,10 @@
+SourceTable,ColumnName,IssueType,AffectedRows,CleaningTreatment
+Orders,Region,blank_region,400,Processed version restored from validated canonical generation; raw retained for exercises
+Orders,OrderStatus,status_whitespace,260,Processed version restored from validated canonical generation; raw retained for exercises
+Orders,OrderDate,invalid_date,65,Processed version restored from validated canonical generation; raw retained for exercises
+Products,MaterialDescription,leading_trailing_spaces,35,Processed version restored from validated canonical generation; raw retained for exercises
+Products,Category,missing_category,15,Processed version restored from validated canonical generation; raw retained for exercises
+PurchaseOrders,Vendor,vendor_case,85,Processed version restored from validated canonical generation; raw retained for exercises
+PurchaseOrders,PODate,blank_po_date,20,Processed version restored from validated canonical generation; raw retained for exercises
+OrderLines,UnitPriceNZD,currency_text,110,Processed version restored from validated canonical generation; raw retained for exercises
+OrderLines,QuantityOrdered,blank_numeric_qty,38,Processed version restored from validated canonical generation; raw retained for exercises

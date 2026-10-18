@@ -1,0 +1,2001 @@
+CustomerID,CustomerName,Region,CustomerSegment,AccountReference
+C00001,Fictional Customer 00001,Waikato,E-commerce,ACC10001
+C00002,Fictional Customer 00002,Waikato,Retail,ACC10002
+C00003,Fictional Customer 00003,Waikato,E-commerce,ACC10003
+C00004,Fictional Customer 00004,Auckland,E-commerce,ACC10004
+C00005,Fictional Customer 00005,Waikato,Wholesale,ACC10005
+C00006,Fictional Customer 00006,Wellington,Retail,ACC10006
+C00007,Fictional Customer 00007,Wellington,Retail,ACC10007
+C00008,Fictional Customer 00008,Canterbury,Wholesale,ACC10008
+C00009,Fictional Customer 00009,Waikato,Retail,ACC10009
+C00010,Fictional Customer 00010,Wellington,E-commerce,ACC10010
+C00011,Fictional Customer 00011,Wellington,Retail,ACC10011
+C00012,Fictional Customer 00012,Bay of Plenty,Wholesale,ACC10012
+C00013,Fictional Customer 00013,Waikato,Wholesale,ACC10013
+C00014,Fictional Customer 00014,Canterbury,E-commerce,ACC10014
+C00015,Fictional Customer 00015,Wellington,Hospitality,ACC10015
+C00016,Fictional Customer 00016,Bay of Plenty,E-commerce,ACC10016
+C00017,Fictional Customer 00017,Wellington,Wholesale,ACC10017
+C00018,Fictional Customer 00018,Waikato,Retail,ACC10018
+C00019,Fictional Customer 00019,Waikato,Retail,ACC10019
+C00020,Fictional Customer 00020,Waikato,Hospitality,ACC10020
+C00021,Fictional Customer 00021,Waikato,Wholesale,ACC10021
+C00022,Fictional Customer 00022,Bay of Plenty,Hospitality,ACC10022
+C00023,Fictional Customer 00023,Wellington,E-commerce,ACC10023
+C00024,Fictional Customer 00024,Waikato,Hospitality,ACC10024
+C00025,Fictional Customer 00025,Bay of Plenty,Wholesale,ACC10025
+C00026,Fictional Customer 00026,Auckland,Wholesale,ACC10026
+C00027,Fictional Customer 00027,Waikato,Wholesale,ACC10027
+C00028,Fictional Customer 00028,Bay of Plenty,Wholesale,ACC10028
+C00029,Fictional Customer 00029,Wellington,E-commerce,ACC10029
+C00030,Fictional Customer 00030,Auckland,Retail,ACC10030
+C00031,Fictional Customer 00031,Wellington,Retail,ACC10031
+C00032,Fictional Customer 00032,Canterbury,Wholesale,ACC10032
+C00033,Fictional Customer 00033,Bay of Plenty,Retail,ACC10033
+C00034,Fictional Customer 00034,Waikato,Retail,ACC10034
+C00035,Fictional Customer 00035,Waikato,Hospitality,ACC10035
+C00036,Fictional Customer 00036,Waikato,Hospitality,ACC10036
+C00037,Fictional Customer 00037,Auckland,Hospitality,ACC10037
+C00038,Fictional Customer 00038,Canterbury,E-commerce,ACC10038
+C00039,Fictional Customer 00039,Canterbury,E-commerce,ACC10039
+C00040,Fictional Customer 00040,Bay of Plenty,Wholesale,ACC10040
+C00041,Fictional Customer 00041,Auckland,Hospitality,ACC10041
+C00042,Fictional Customer 00042,Canterbury,E-commerce,ACC10042
+C00043,Fictional Customer 00043,Bay of Plenty,Retail,ACC10043
+C00044,Fictional Customer 00044,Auckland,Retail,ACC10044
+C00045,Fictional Customer 00045,Bay of Plenty,Wholesale,ACC10045
+C00046,Fictional Customer 00046,Waikato,Hospitality,ACC10046
+C00047,Fictional Customer 00047,Canterbury,Wholesale,ACC10047
+C00048,Fictional Customer 00048,Canterbury,E-commerce,ACC10048
+C00049,Fictional Customer 00049,Waikato,Wholesale,ACC10049
+C00050,Fictional Customer 00050,Wellington,Retail,ACC10050
+C00051,Fictional Customer 00051,Bay of Plenty,Retail,ACC10051
+C00052,Fictional Customer 00052,Waikato,Retail,ACC10052
+C00053,Fictional Customer 00053,Canterbury,Retail,ACC10053
+C00054,Fictional Customer 00054,Canterbury,Retail,ACC10054
+C00055,Fictional Customer 00055,Wellington,Retail,ACC10055
+C00056,Fictional Customer 00056,Bay of Plenty,Wholesale,ACC10056
+C00057,Fictional Customer 00057,Auckland,E-commerce,ACC10057
+C00058,Fictional Customer 00058,Auckland,Retail,ACC10058
+C00059,Fictional Customer 00059,Auckland,Retail,ACC10059
+C00060,Fictional Customer 00060,Bay of Plenty,Hospitality,ACC10060
+C00061,Fictional Customer 00061,Wellington,Wholesale,ACC10061
+C00062,Fictional Customer 00062,Canterbury,E-commerce,ACC10062
+C00063,Fictional Customer 00063,Auckland,Retail,ACC10063
+C00064,Fictional Customer 00064,Canterbury,E-commerce,ACC10064
+C00065,Fictional Customer 00065,Auckland,Wholesale,ACC10065
+C00066,Fictional Customer 00066,Auckland,Wholesale,ACC10066
+C00067,Fictional Customer 00067,Auckland,Wholesale,ACC10067
+C00068,Fictional Customer 00068,Waikato,Retail,ACC10068
+C00069,Fictional Customer 00069,Auckland,E-commerce,ACC10069
+C00070,Fictional Customer 00070,Auckland,Retail,ACC10070
+C00071,Fictional Customer 00071,Waikato,Hospitality,ACC10071
+C00072,Fictional Customer 00072,Waikato,Wholesale,ACC10072
+C00073,Fictional Customer 00073,Wellington,Wholesale,ACC10073
+C00074,Fictional Customer 00074,Wellington,Retail,ACC10074
+C00075,Fictional Customer 00075,Wellington,E-commerce,ACC10075
+C00076,Fictional Customer 00076,Bay of Plenty,Wholesale,ACC10076
+C00077,Fictional Customer 00077,Wellington,E-commerce,ACC10077
+C00078,Fictional Customer 00078,Waikato,Hospitality,ACC10078
+C00079,Fictional Customer 00079,Waikato,Wholesale,ACC10079
+C00080,Fictional Customer 00080,Wellington,Hospitality,ACC10080
+C00081,Fictional Customer 00081,Auckland,Hospitality,ACC10081
+C00082,Fictional Customer 00082,Waikato,Retail,ACC10082
+C00083,Fictional Customer 00083,Auckland,Wholesale,ACC10083
+C00084,Fictional Customer 00084,Bay of Plenty,Retail,ACC10084
+C00085,Fictional Customer 00085,Canterbury,E-commerce,ACC10085
+C00086,Fictional Customer 00086,Bay of Plenty,Hospitality,ACC10086
+C00087,Fictional Customer 00087,Canterbury,Wholesale,ACC10087
+C00088,Fictional Customer 00088,Waikato,E-commerce,ACC10088
+C00089,Fictional Customer 00089,Canterbury,Wholesale,ACC10089
+C00090,Fictional Customer 00090,Canterbury,Retail,ACC10090
+C00091,Fictional Customer 00091,Bay of Plenty,Wholesale,ACC10091
+C00092,Fictional Customer 00092,Wellington,Retail,ACC10092
+C00093,Fictional Customer 00093,Bay of Plenty,Wholesale,ACC10093
+C00094,Fictional Customer 00094,Bay of Plenty,Hospitality,ACC10094
+C00095,Fictional Customer 00095,Auckland,Wholesale,ACC10095
+C00096,Fictional Customer 00096,Auckland,Wholesale,ACC10096
+C00097,Fictional Customer 00097,Waikato,Hospitality,ACC10097
+C00098,Fictional Customer 00098,Auckland,Retail,ACC10098
+C00099,Fictional Customer 00099,Waikato,Hospitality,ACC10099
+C00100,Fictional Customer 00100,Canterbury,Wholesale,ACC10100
+C00101,Fictional Customer 00101,Auckland,E-commerce,ACC10101
+C00102,Fictional Customer 00102,Auckland,Wholesale,ACC10102
+C00103,Fictional Customer 00103,Wellington,Wholesale,ACC10103
+C00104,Fictional Customer 00104,Canterbury,E-commerce,ACC10104
+C00105,Fictional Customer 00105,Wellington,Wholesale,ACC10105
+C00106,Fictional Customer 00106,Bay of Plenty,E-commerce,ACC10106
+C00107,Fictional Customer 00107,Waikato,Wholesale,ACC10107
+C00108,Fictional Customer 00108,Wellington,Wholesale,ACC10108
+C00109,Fictional Customer 00109,Bay of Plenty,Wholesale,ACC10109
+C00110,Fictional Customer 00110,Auckland,Retail,ACC10110
+C00111,Fictional Customer 00111,Canterbury,Wholesale,ACC10111
+C00112,Fictional Customer 00112,Waikato,E-commerce,ACC10112
+C00113,Fictional Customer 00113,Auckland,Retail,ACC10113
+C00114,Fictional Customer 00114,Waikato,Retail,ACC10114
+C00115,Fictional Customer 00115,Auckland,Wholesale,ACC10115
+C00116,Fictional Customer 00116,Auckland,Retail,ACC10116
+C00117,Fictional Customer 00117,Canterbury,Retail,ACC10117
+C00118,Fictional Customer 00118,Canterbury,Wholesale,ACC10118
+C00119,Fictional Customer 00119,Waikato,E-commerce,ACC10119
+C00120,Fictional Customer 00120,Bay of Plenty,Wholesale,ACC10120
+C00121,Fictional Customer 00121,Auckland,E-commerce,ACC10121
+C00122,Fictional Customer 00122,Canterbury,E-commerce,ACC10122
+C00123,Fictional Customer 00123,Wellington,Retail,ACC10123
+C00124,Fictional Customer 00124,Bay of Plenty,Wholesale,ACC10124
+C00125,Fictional Customer 00125,Waikato,Retail,ACC10125
+C00126,Fictional Customer 00126,Waikato,Retail,ACC10126
+C00127,Fictional Customer 00127,Canterbury,E-commerce,ACC10127
+C00128,Fictional Customer 00128,Wellington,Wholesale,ACC10128
+C00129,Fictional Customer 00129,Waikato,E-commerce,ACC10129
+C00130,Fictional Customer 00130,Auckland,Hospitality,ACC10130
+C00131,Fictional Customer 00131,Wellington,Wholesale,ACC10131
+C00132,Fictional Customer 00132,Wellington,Wholesale,ACC10132
+C00133,Fictional Customer 00133,Waikato,Wholesale,ACC10133
+C00134,Fictional Customer 00134,Wellington,Retail,ACC10134
+C00135,Fictional Customer 00135,Waikato,Wholesale,ACC10135
+C00136,Fictional Customer 00136,Bay of Plenty,Wholesale,ACC10136
+C00137,Fictional Customer 00137,Bay of Plenty,E-commerce,ACC10137
+C00138,Fictional Customer 00138,Waikato,Retail,ACC10138
+C00139,Fictional Customer 00139,Canterbury,E-commerce,ACC10139
+C00140,Fictional Customer 00140,Wellington,Wholesale,ACC10140
+C00141,Fictional Customer 00141,Canterbury,Wholesale,ACC10141
+C00142,Fictional Customer 00142,Wellington,Wholesale,ACC10142
+C00143,Fictional Customer 00143,Bay of Plenty,E-commerce,ACC10143
+C00144,Fictional Customer 00144,Auckland,Retail,ACC10144
+C00145,Fictional Customer 00145,Wellington,Hospitality,ACC10145
+C00146,Fictional Customer 00146,Auckland,E-commerce,ACC10146
+C00147,Fictional Customer 00147,Bay of Plenty,Hospitality,ACC10147
+C00148,Fictional Customer 00148,Auckland,Hospitality,ACC10148
+C00149,Fictional Customer 00149,Auckland,Hospitality,ACC10149
+C00150,Fictional Customer 00150,Auckland,Retail,ACC10150
+C00151,Fictional Customer 00151,Waikato,Retail,ACC10151
+C00152,Fictional Customer 00152,Waikato,Retail,ACC10152
+C00153,Fictional Customer 00153,Waikato,Hospitality,ACC10153
+C00154,Fictional Customer 00154,Auckland,Retail,ACC10154
+C00155,Fictional Customer 00155,Bay of Plenty,E-commerce,ACC10155
+C00156,Fictional Customer 00156,Bay of Plenty,Retail,ACC10156
+C00157,Fictional Customer 00157,Auckland,Retail,ACC10157
+C00158,Fictional Customer 00158,Canterbury,Wholesale,ACC10158
+C00159,Fictional Customer 00159,Bay of Plenty,E-commerce,ACC10159
+C00160,Fictional Customer 00160,Canterbury,Wholesale,ACC10160
+C00161,Fictional Customer 00161,Waikato,Wholesale,ACC10161
+C00162,Fictional Customer 00162,Auckland,Wholesale,ACC10162
+C00163,Fictional Customer 00163,Canterbury,Hospitality,ACC10163
+C00164,Fictional Customer 00164,Bay of Plenty,Retail,ACC10164
+C00165,Fictional Customer 00165,Wellington,Wholesale,ACC10165
+C00166,Fictional Customer 00166,Bay of Plenty,Wholesale,ACC10166
+C00167,Fictional Customer 00167,Waikato,Retail,ACC10167
+C00168,Fictional Customer 00168,Auckland,E-commerce,ACC10168
+C00169,Fictional Customer 00169,Canterbury,Wholesale,ACC10169
+C00170,Fictional Customer 00170,Waikato,E-commerce,ACC10170
+C00171,Fictional Customer 00171,Wellington,Hospitality,ACC10171
+C00172,Fictional Customer 00172,Wellington,E-commerce,ACC10172
+C00173,Fictional Customer 00173,Auckland,Hospitality,ACC10173
+C00174,Fictional Customer 00174,Waikato,E-commerce,ACC10174
+C00175,Fictional Customer 00175,Auckland,Hospitality,ACC10175
+C00176,Fictional Customer 00176,Waikato,Retail,ACC10176
+C00177,Fictional Customer 00177,Wellington,Wholesale,ACC10177
+C00178,Fictional Customer 00178,Auckland,Retail,ACC10178
+C00179,Fictional Customer 00179,Wellington,Wholesale,ACC10179
+C00180,Fictional Customer 00180,Waikato,Retail,ACC10180
+C00181,Fictional Customer 00181,Auckland,E-commerce,ACC10181
+C00182,Fictional Customer 00182,Bay of Plenty,Wholesale,ACC10182
+C00183,Fictional Customer 00183,Waikato,Wholesale,ACC10183
+C00184,Fictional Customer 00184,Bay of Plenty,Wholesale,ACC10184
+C00185,Fictional Customer 00185,Waikato,Hospitality,ACC10185
+C00186,Fictional Customer 00186,Wellington,Retail,ACC10186
+C00187,Fictional Customer 00187,Wellington,Wholesale,ACC10187
+C00188,Fictional Customer 00188,Canterbury,Wholesale,ACC10188
+C00189,Fictional Customer 00189,Wellington,Wholesale,ACC10189
+C00190,Fictional Customer 00190,Auckland,Wholesale,ACC10190
+C00191,Fictional Customer 00191,Canterbury,Hospitality,ACC10191
+C00192,Fictional Customer 00192,Wellington,Retail,ACC10192
+C00193,Fictional Customer 00193,Auckland,Wholesale,ACC10193
+C00194,Fictional Customer 00194,Canterbury,E-commerce,ACC10194
+C00195,Fictional Customer 00195,Wellington,Retail,ACC10195
+C00196,Fictional Customer 00196,Wellington,Retail,ACC10196
+C00197,Fictional Customer 00197,Bay of Plenty,Wholesale,ACC10197
+C00198,Fictional Customer 00198,Canterbury,Retail,ACC10198
+C00199,Fictional Customer 00199,Canterbury,Retail,ACC10199
+C00200,Fictional Customer 00200,Wellington,E-commerce,ACC10200
+C00201,Fictional Customer 00201,Wellington,Retail,ACC10201
+C00202,Fictional Customer 00202,Bay of Plenty,Hospitality,ACC10202
+C00203,Fictional Customer 00203,Canterbury,Retail,ACC10203
+C00204,Fictional Customer 00204,Bay of Plenty,Retail,ACC10204
+C00205,Fictional Customer 00205,Waikato,Wholesale,ACC10205
+C00206,Fictional Customer 00206,Auckland,Hospitality,ACC10206
+C00207,Fictional Customer 00207,Bay of Plenty,Retail,ACC10207
+C00208,Fictional Customer 00208,Canterbury,Wholesale,ACC10208
+C00209,Fictional Customer 00209,Waikato,Retail,ACC10209
+C00210,Fictional Customer 00210,Canterbury,E-commerce,ACC10210
+C00211,Fictional Customer 00211,Wellington,E-commerce,ACC10211
+C00212,Fictional Customer 00212,Waikato,Wholesale,ACC10212
+C00213,Fictional Customer 00213,Auckland,Wholesale,ACC10213
+C00214,Fictional Customer 00214,Canterbury,Wholesale,ACC10214
+C00215,Fictional Customer 00215,Bay of Plenty,Retail,ACC10215
+C00216,Fictional Customer 00216,Waikato,Wholesale,ACC10216
+C00217,Fictional Customer 00217,Canterbury,Wholesale,ACC10217
+C00218,Fictional Customer 00218,Canterbury,E-commerce,ACC10218
+C00219,Fictional Customer 00219,Auckland,Hospitality,ACC10219
+C00220,Fictional Customer 00220,Wellington,Hospitality,ACC10220
+C00221,Fictional Customer 00221,Wellington,Wholesale,ACC10221
+C00222,Fictional Customer 00222,Auckland,Retail,ACC10222
+C00223,Fictional Customer 00223,Auckland,Retail,ACC10223
+C00224,Fictional Customer 00224,Canterbury,E-commerce,ACC10224
+C00225,Fictional Customer 00225,Auckland,Retail,ACC10225
+C00226,Fictional Customer 00226,Auckland,Hospitality,ACC10226
+C00227,Fictional Customer 00227,Bay of Plenty,Wholesale,ACC10227
+C00228,Fictional Customer 00228,Bay of Plenty,Retail,ACC10228
+C00229,Fictional Customer 00229,Wellington,Hospitality,ACC10229
+C00230,Fictional Customer 00230,Auckland,E-commerce,ACC10230
+C00231,Fictional Customer 00231,Bay of Plenty,Retail,ACC10231
+C00232,Fictional Customer 00232,Bay of Plenty,Wholesale,ACC10232
+C00233,Fictional Customer 00233,Wellington,Wholesale,ACC10233
+C00234,Fictional Customer 00234,Wellington,E-commerce,ACC10234
+C00235,Fictional Customer 00235,Canterbury,E-commerce,ACC10235
+C00236,Fictional Customer 00236,Waikato,Hospitality,ACC10236
+C00237,Fictional Customer 00237,Canterbury,Wholesale,ACC10237
+C00238,Fictional Customer 00238,Wellington,Retail,ACC10238
+C00239,Fictional Customer 00239,Waikato,Retail,ACC10239
+C00240,Fictional Customer 00240,Bay of Plenty,E-commerce,ACC10240
+C00241,Fictional Customer 00241,Bay of Plenty,Retail,ACC10241
+C00242,Fictional Customer 00242,Waikato,E-commerce,ACC10242
+C00243,Fictional Customer 00243,Bay of Plenty,Hospitality,ACC10243
+C00244,Fictional Customer 00244,Auckland,E-commerce,ACC10244
+C00245,Fictional Customer 00245,Bay of Plenty,Wholesale,ACC10245
+C00246,Fictional Customer 00246,Canterbury,E-commerce,ACC10246
+C00247,Fictional Customer 00247,Waikato,Wholesale,ACC10247
+C00248,Fictional Customer 00248,Waikato,Retail,ACC10248
+C00249,Fictional Customer 00249,Bay of Plenty,Retail,ACC10249
+C00250,Fictional Customer 00250,Bay of Plenty,Retail,ACC10250
+C00251,Fictional Customer 00251,Waikato,Retail,ACC10251
+C00252,Fictional Customer 00252,Canterbury,Wholesale,ACC10252
+C00253,Fictional Customer 00253,Auckland,Retail,ACC10253
+C00254,Fictional Customer 00254,Waikato,Wholesale,ACC10254
+C00255,Fictional Customer 00255,Wellington,Retail,ACC10255
+C00256,Fictional Customer 00256,Bay of Plenty,Wholesale,ACC10256
+C00257,Fictional Customer 00257,Canterbury,Retail,ACC10257
+C00258,Fictional Customer 00258,Wellington,Retail,ACC10258
+C00259,Fictional Customer 00259,Wellington,Retail,ACC10259
+C00260,Fictional Customer 00260,Wellington,E-commerce,ACC10260
+C00261,Fictional Customer 00261,Bay of Plenty,Retail,ACC10261
+C00262,Fictional Customer 00262,Canterbury,Hospitality,ACC10262
+C00263,Fictional Customer 00263,Canterbury,Wholesale,ACC10263
+C00264,Fictional Customer 00264,Wellington,Hospitality,ACC10264
+C00265,Fictional Customer 00265,Wellington,Retail,ACC10265
+C00266,Fictional Customer 00266,Wellington,Wholesale,ACC10266
+C00267,Fictional Customer 00267,Bay of Plenty,E-commerce,ACC10267
+C00268,Fictional Customer 00268,Waikato,Wholesale,ACC10268
+C00269,Fictional Customer 00269,Auckland,Hospitality,ACC10269
+C00270,Fictional Customer 00270,Waikato,Retail,ACC10270
+C00271,Fictional Customer 00271,Auckland,Retail,ACC10271
+C00272,Fictional Customer 00272,Canterbury,Wholesale,ACC10272
+C00273,Fictional Customer 00273,Canterbury,E-commerce,ACC10273
+C00274,Fictional Customer 00274,Wellington,Retail,ACC10274
+C00275,Fictional Customer 00275,Waikato,Retail,ACC10275
+C00276,Fictional Customer 00276,Auckland,E-commerce,ACC10276
+C00277,Fictional Customer 00277,Waikato,Retail,ACC10277
+C00278,Fictional Customer 00278,Auckland,E-commerce,ACC10278
+C00279,Fictional Customer 00279,Auckland,Retail,ACC10279
+C00280,Fictional Customer 00280,Canterbury,Retail,ACC10280
+C00281,Fictional Customer 00281,Auckland,Hospitality,ACC10281
+C00282,Fictional Customer 00282,Waikato,Retail,ACC10282
+C00283,Fictional Customer 00283,Wellington,E-commerce,ACC10283
+C00284,Fictional Customer 00284,Wellington,E-commerce,ACC10284
+C00285,Fictional Customer 00285,Canterbury,Retail,ACC10285
+C00286,Fictional Customer 00286,Canterbury,Retail,ACC10286
+C00287,Fictional Customer 00287,Canterbury,Retail,ACC10287
+C00288,Fictional Customer 00288,Bay of Plenty,Wholesale,ACC10288
+C00289,Fictional Customer 00289,Auckland,E-commerce,ACC10289
+C00290,Fictional Customer 00290,Wellington,E-commerce,ACC10290
+C00291,Fictional Customer 00291,Canterbury,Wholesale,ACC10291
+C00292,Fictional Customer 00292,Bay of Plenty,Retail,ACC10292
+C00293,Fictional Customer 00293,Wellington,Retail,ACC10293
+C00294,Fictional Customer 00294,Auckland,Retail,ACC10294
+C00295,Fictional Customer 00295,Waikato,Wholesale,ACC10295
+C00296,Fictional Customer 00296,Waikato,Wholesale,ACC10296
+C00297,Fictional Customer 00297,Canterbury,E-commerce,ACC10297
+C00298,Fictional Customer 00298,Auckland,Wholesale,ACC10298
+C00299,Fictional Customer 00299,Bay of Plenty,Retail,ACC10299
+C00300,Fictional Customer 00300,Bay of Plenty,Retail,ACC10300
+C00301,Fictional Customer 00301,Auckland,Hospitality,ACC10301
+C00302,Fictional Customer 00302,Auckland,Retail,ACC10302
+C00303,Fictional Customer 00303,Wellington,Retail,ACC10303
+C00304,Fictional Customer 00304,Wellington,Retail,ACC10304
+C00305,Fictional Customer 00305,Wellington,Retail,ACC10305
+C00306,Fictional Customer 00306,Auckland,Wholesale,ACC10306
+C00307,Fictional Customer 00307,Bay of Plenty,Retail,ACC10307
+C00308,Fictional Customer 00308,Auckland,E-commerce,ACC10308
+C00309,Fictional Customer 00309,Bay of Plenty,E-commerce,ACC10309
+C00310,Fictional Customer 00310,Bay of Plenty,Retail,ACC10310
+C00311,Fictional Customer 00311,Wellington,Retail,ACC10311
+C00312,Fictional Customer 00312,Wellington,Wholesale,ACC10312
+C00313,Fictional Customer 00313,Canterbury,Retail,ACC10313
+C00314,Fictional Customer 00314,Waikato,E-commerce,ACC10314
+C00315,Fictional Customer 00315,Waikato,Retail,ACC10315
+C00316,Fictional Customer 00316,Auckland,Wholesale,ACC10316
+C00317,Fictional Customer 00317,Canterbury,Hospitality,ACC10317
+C00318,Fictional Customer 00318,Waikato,Wholesale,ACC10318
+C00319,Fictional Customer 00319,Bay of Plenty,Retail,ACC10319
+C00320,Fictional Customer 00320,Auckland,Retail,ACC10320
+C00321,Fictional Customer 00321,Auckland,Retail,ACC10321
+C00322,Fictional Customer 00322,Wellington,Wholesale,ACC10322
+C00323,Fictional Customer 00323,Bay of Plenty,Hospitality,ACC10323
+C00324,Fictional Customer 00324,Canterbury,Retail,ACC10324
+C00325,Fictional Customer 00325,Waikato,E-commerce,ACC10325
+C00326,Fictional Customer 00326,Waikato,Wholesale,ACC10326
+C00327,Fictional Customer 00327,Auckland,Retail,ACC10327
+C00328,Fictional Customer 00328,Wellington,Hospitality,ACC10328
+C00329,Fictional Customer 00329,Waikato,Wholesale,ACC10329
+C00330,Fictional Customer 00330,Waikato,Hospitality,ACC10330
+C00331,Fictional Customer 00331,Wellington,Hospitality,ACC10331
+C00332,Fictional Customer 00332,Auckland,Wholesale,ACC10332
+C00333,Fictional Customer 00333,Waikato,Wholesale,ACC10333
+C00334,Fictional Customer 00334,Waikato,Retail,ACC10334
+C00335,Fictional Customer 00335,Canterbury,Hospitality,ACC10335
+C00336,Fictional Customer 00336,Bay of Plenty,Retail,ACC10336
+C00337,Fictional Customer 00337,Wellington,E-commerce,ACC10337
+C00338,Fictional Customer 00338,Bay of Plenty,Retail,ACC10338
+C00339,Fictional Customer 00339,Canterbury,Retail,ACC10339
+C00340,Fictional Customer 00340,Wellington,Wholesale,ACC10340
+C00341,Fictional Customer 00341,Auckland,Wholesale,ACC10341
+C00342,Fictional Customer 00342,Bay of Plenty,Retail,ACC10342
+C00343,Fictional Customer 00343,Wellington,Wholesale,ACC10343
+C00344,Fictional Customer 00344,Wellington,Retail,ACC10344
+C00345,Fictional Customer 00345,Waikato,E-commerce,ACC10345
+C00346,Fictional Customer 00346,Auckland,Hospitality,ACC10346
+C00347,Fictional Customer 00347,Canterbury,Retail,ACC10347
+C00348,Fictional Customer 00348,Waikato,Retail,ACC10348
+C00349,Fictional Customer 00349,Waikato,Retail,ACC10349
+C00350,Fictional Customer 00350,Waikato,Hospitality,ACC10350
+C00351,Fictional Customer 00351,Canterbury,E-commerce,ACC10351
+C00352,Fictional Customer 00352,Bay of Plenty,Retail,ACC10352
+C00353,Fictional Customer 00353,Bay of Plenty,E-commerce,ACC10353
+C00354,Fictional Customer 00354,Canterbury,Retail,ACC10354
+C00355,Fictional Customer 00355,Wellington,Wholesale,ACC10355
+C00356,Fictional Customer 00356,Canterbury,Wholesale,ACC10356
+C00357,Fictional Customer 00357,Auckland,Wholesale,ACC10357
+C00358,Fictional Customer 00358,Bay of Plenty,Hospitality,ACC10358
+C00359,Fictional Customer 00359,Canterbury,E-commerce,ACC10359
+C00360,Fictional Customer 00360,Waikato,Wholesale,ACC10360
+C00361,Fictional Customer 00361,Bay of Plenty,Hospitality,ACC10361
+C00362,Fictional Customer 00362,Canterbury,Retail,ACC10362
+C00363,Fictional Customer 00363,Bay of Plenty,E-commerce,ACC10363
+C00364,Fictional Customer 00364,Canterbury,Retail,ACC10364
+C00365,Fictional Customer 00365,Waikato,Hospitality,ACC10365
+C00366,Fictional Customer 00366,Auckland,Retail,ACC10366
+C00367,Fictional Customer 00367,Canterbury,Retail,ACC10367
+C00368,Fictional Customer 00368,Canterbury,Retail,ACC10368
+C00369,Fictional Customer 00369,Waikato,E-commerce,ACC10369
+C00370,Fictional Customer 00370,Bay of Plenty,E-commerce,ACC10370
+C00371,Fictional Customer 00371,Waikato,Retail,ACC10371
+C00372,Fictional Customer 00372,Canterbury,Retail,ACC10372
+C00373,Fictional Customer 00373,Bay of Plenty,Retail,ACC10373
+C00374,Fictional Customer 00374,Auckland,Retail,ACC10374
+C00375,Fictional Customer 00375,Canterbury,E-commerce,ACC10375
+C00376,Fictional Customer 00376,Canterbury,Wholesale,ACC10376
+C00377,Fictional Customer 00377,Waikato,Retail,ACC10377
+C00378,Fictional Customer 00378,Bay of Plenty,Retail,ACC10378
+C00379,Fictional Customer 00379,Wellington,Hospitality,ACC10379
+C00380,Fictional Customer 00380,Auckland,E-commerce,ACC10380
+C00381,Fictional Customer 00381,Waikato,Wholesale,ACC10381
+C00382,Fictional Customer 00382,Wellington,E-commerce,ACC10382
+C00383,Fictional Customer 00383,Waikato,E-commerce,ACC10383
+C00384,Fictional Customer 00384,Bay of Plenty,Retail,ACC10384
+C00385,Fictional Customer 00385,Auckland,Retail,ACC10385
+C00386,Fictional Customer 00386,Bay of Plenty,Wholesale,ACC10386
+C00387,Fictional Customer 00387,Wellington,Hospitality,ACC10387
+C00388,Fictional Customer 00388,Canterbury,Retail,ACC10388
+C00389,Fictional Customer 00389,Auckland,Hospitality,ACC10389
+C00390,Fictional Customer 00390,Auckland,Wholesale,ACC10390
+C00391,Fictional Customer 00391,Wellington,Wholesale,ACC10391
+C00392,Fictional Customer 00392,Bay of Plenty,Retail,ACC10392
+C00393,Fictional Customer 00393,Wellington,Wholesale,ACC10393
+C00394,Fictional Customer 00394,Waikato,E-commerce,ACC10394
+C00395,Fictional Customer 00395,Waikato,Wholesale,ACC10395
+C00396,Fictional Customer 00396,Canterbury,Retail,ACC10396
+C00397,Fictional Customer 00397,Bay of Plenty,Retail,ACC10397
+C00398,Fictional Customer 00398,Auckland,Retail,ACC10398
+C00399,Fictional Customer 00399,Canterbury,Wholesale,ACC10399
+C00400,Fictional Customer 00400,Canterbury,Wholesale,ACC10400
+C00401,Fictional Customer 00401,Auckland,Retail,ACC10401
+C00402,Fictional Customer 00402,Wellington,Wholesale,ACC10402
+C00403,Fictional Customer 00403,Canterbury,Retail,ACC10403
+C00404,Fictional Customer 00404,Canterbury,Wholesale,ACC10404
+C00405,Fictional Customer 00405,Auckland,Hospitality,ACC10405
+C00406,Fictional Customer 00406,Bay of Plenty,Retail,ACC10406
+C00407,Fictional Customer 00407,Waikato,Retail,ACC10407
+C00408,Fictional Customer 00408,Wellington,Retail,ACC10408
+C00409,Fictional Customer 00409,Wellington,E-commerce,ACC10409
+C00410,Fictional Customer 00410,Waikato,Retail,ACC10410
+C00411,Fictional Customer 00411,Auckland,E-commerce,ACC10411
+C00412,Fictional Customer 00412,Canterbury,Hospitality,ACC10412
+C00413,Fictional Customer 00413,Bay of Plenty,Retail,ACC10413
+C00414,Fictional Customer 00414,Canterbury,Retail,ACC10414
+C00415,Fictional Customer 00415,Auckland,Hospitality,ACC10415
+C00416,Fictional Customer 00416,Bay of Plenty,E-commerce,ACC10416
+C00417,Fictional Customer 00417,Wellington,Retail,ACC10417
+C00418,Fictional Customer 00418,Auckland,Wholesale,ACC10418
+C00419,Fictional Customer 00419,Auckland,Hospitality,ACC10419
+C00420,Fictional Customer 00420,Waikato,E-commerce,ACC10420
+C00421,Fictional Customer 00421,Auckland,Wholesale,ACC10421
+C00422,Fictional Customer 00422,Auckland,Wholesale,ACC10422
+C00423,Fictional Customer 00423,Canterbury,Wholesale,ACC10423
+C00424,Fictional Customer 00424,Canterbury,Retail,ACC10424
+C00425,Fictional Customer 00425,Canterbury,Retail,ACC10425
+C00426,Fictional Customer 00426,Wellington,Hospitality,ACC10426
+C00427,Fictional Customer 00427,Canterbury,Hospitality,ACC10427
+C00428,Fictional Customer 00428,Bay of Plenty,Retail,ACC10428
+C00429,Fictional Customer 00429,Waikato,Hospitality,ACC10429
+C00430,Fictional Customer 00430,Canterbury,E-commerce,ACC10430
+C00431,Fictional Customer 00431,Auckland,Retail,ACC10431
+C00432,Fictional Customer 00432,Canterbury,Retail,ACC10432
+C00433,Fictional Customer 00433,Wellington,Retail,ACC10433
+C00434,Fictional Customer 00434,Canterbury,Retail,ACC10434
+C00435,Fictional Customer 00435,Waikato,Retail,ACC10435
+C00436,Fictional Customer 00436,Waikato,Retail,ACC10436
+C00437,Fictional Customer 00437,Canterbury,Wholesale,ACC10437
+C00438,Fictional Customer 00438,Waikato,Wholesale,ACC10438
+C00439,Fictional Customer 00439,Wellington,Retail,ACC10439
+C00440,Fictional Customer 00440,Canterbury,Hospitality,ACC10440
+C00441,Fictional Customer 00441,Waikato,Wholesale,ACC10441
+C00442,Fictional Customer 00442,Canterbury,E-commerce,ACC10442
+C00443,Fictional Customer 00443,Wellington,E-commerce,ACC10443
+C00444,Fictional Customer 00444,Waikato,E-commerce,ACC10444
+C00445,Fictional Customer 00445,Wellington,Wholesale,ACC10445
+C00446,Fictional Customer 00446,Waikato,Wholesale,ACC10446
+C00447,Fictional Customer 00447,Wellington,Wholesale,ACC10447
+C00448,Fictional Customer 00448,Waikato,Retail,ACC10448
+C00449,Fictional Customer 00449,Waikato,E-commerce,ACC10449
+C00450,Fictional Customer 00450,Wellington,E-commerce,ACC10450
+C00451,Fictional Customer 00451,Auckland,Hospitality,ACC10451
+C00452,Fictional Customer 00452,Waikato,Retail,ACC10452
+C00453,Fictional Customer 00453,Bay of Plenty,Wholesale,ACC10453
+C00454,Fictional Customer 00454,Canterbury,Hospitality,ACC10454
+C00455,Fictional Customer 00455,Auckland,E-commerce,ACC10455
+C00456,Fictional Customer 00456,Waikato,E-commerce,ACC10456
+C00457,Fictional Customer 00457,Canterbury,Retail,ACC10457
+C00458,Fictional Customer 00458,Canterbury,Retail,ACC10458
+C00459,Fictional Customer 00459,Wellington,Retail,ACC10459
+C00460,Fictional Customer 00460,Auckland,E-commerce,ACC10460
+C00461,Fictional Customer 00461,Auckland,Retail,ACC10461
+C00462,Fictional Customer 00462,Canterbury,Hospitality,ACC10462
+C00463,Fictional Customer 00463,Waikato,Wholesale,ACC10463
+C00464,Fictional Customer 00464,Auckland,Hospitality,ACC10464
+C00465,Fictional Customer 00465,Canterbury,Wholesale,ACC10465
+C00466,Fictional Customer 00466,Canterbury,Wholesale,ACC10466
+C00467,Fictional Customer 00467,Auckland,Retail,ACC10467
+C00468,Fictional Customer 00468,Canterbury,E-commerce,ACC10468
+C00469,Fictional Customer 00469,Canterbury,Hospitality,ACC10469
+C00470,Fictional Customer 00470,Waikato,E-commerce,ACC10470
+C00471,Fictional Customer 00471,Canterbury,Hospitality,ACC10471
+C00472,Fictional Customer 00472,Wellington,E-commerce,ACC10472
+C00473,Fictional Customer 00473,Canterbury,E-commerce,ACC10473
+C00474,Fictional Customer 00474,Wellington,Retail,ACC10474
+C00475,Fictional Customer 00475,Waikato,Hospitality,ACC10475
+C00476,Fictional Customer 00476,Wellington,Retail,ACC10476
+C00477,Fictional Customer 00477,Waikato,Hospitality,ACC10477
+C00478,Fictional Customer 00478,Auckland,Retail,ACC10478
+C00479,Fictional Customer 00479,Wellington,Retail,ACC10479
+C00480,Fictional Customer 00480,Waikato,Wholesale,ACC10480
+C00481,Fictional Customer 00481,Bay of Plenty,Retail,ACC10481
+C00482,Fictional Customer 00482,Wellington,E-commerce,ACC10482
+C00483,Fictional Customer 00483,Bay of Plenty,Retail,ACC10483
+C00484,Fictional Customer 00484,Auckland,Hospitality,ACC10484
+C00485,Fictional Customer 00485,Canterbury,Retail,ACC10485
+C00486,Fictional Customer 00486,Waikato,E-commerce,ACC10486
+C00487,Fictional Customer 00487,Canterbury,Wholesale,ACC10487
+C00488,Fictional Customer 00488,Wellington,Retail,ACC10488
+C00489,Fictional Customer 00489,Wellington,Hospitality,ACC10489
+C00490,Fictional Customer 00490,Auckland,Wholesale,ACC10490
+C00491,Fictional Customer 00491,Auckland,E-commerce,ACC10491
+C00492,Fictional Customer 00492,Bay of Plenty,Wholesale,ACC10492
+C00493,Fictional Customer 00493,Auckland,Retail,ACC10493
+C00494,Fictional Customer 00494,Wellington,Retail,ACC10494
+C00495,Fictional Customer 00495,Canterbury,Wholesale,ACC10495
+C00496,Fictional Customer 00496,Bay of Plenty,Hospitality,ACC10496
+C00497,Fictional Customer 00497,Canterbury,Wholesale,ACC10497
+C00498,Fictional Customer 00498,Auckland,Wholesale,ACC10498
+C00499,Fictional Customer 00499,Waikato,Wholesale,ACC10499
+C00500,Fictional Customer 00500,Canterbury,E-commerce,ACC10500
+C00501,Fictional Customer 00501,Auckland,Wholesale,ACC10501
+C00502,Fictional Customer 00502,Wellington,E-commerce,ACC10502
+C00503,Fictional Customer 00503,Bay of Plenty,Retail,ACC10503
+C00504,Fictional Customer 00504,Waikato,Hospitality,ACC10504
+C00505,Fictional Customer 00505,Waikato,E-commerce,ACC10505
+C00506,Fictional Customer 00506,Waikato,Retail,ACC10506
+C00507,Fictional Customer 00507,Wellington,Hospitality,ACC10507
+C00508,Fictional Customer 00508,Bay of Plenty,Hospitality,ACC10508
+C00509,Fictional Customer 00509,Bay of Plenty,Retail,ACC10509
+C00510,Fictional Customer 00510,Auckland,Retail,ACC10510
+C00511,Fictional Customer 00511,Waikato,Retail,ACC10511
+C00512,Fictional Customer 00512,Canterbury,Retail,ACC10512
+C00513,Fictional Customer 00513,Auckland,Retail,ACC10513
+C00514,Fictional Customer 00514,Canterbury,E-commerce,ACC10514
+C00515,Fictional Customer 00515,Bay of Plenty,Wholesale,ACC10515
+C00516,Fictional Customer 00516,Waikato,E-commerce,ACC10516
+C00517,Fictional Customer 00517,Wellington,Retail,ACC10517
+C00518,Fictional Customer 00518,Auckland,Wholesale,ACC10518
+C00519,Fictional Customer 00519,Wellington,Hospitality,ACC10519
+C00520,Fictional Customer 00520,Auckland,Wholesale,ACC10520
+C00521,Fictional Customer 00521,Bay of Plenty,Hospitality,ACC10521
+C00522,Fictional Customer 00522,Auckland,Hospitality,ACC10522
+C00523,Fictional Customer 00523,Bay of Plenty,Wholesale,ACC10523
+C00524,Fictional Customer 00524,Bay of Plenty,Retail,ACC10524
+C00525,Fictional Customer 00525,Waikato,E-commerce,ACC10525
+C00526,Fictional Customer 00526,Auckland,E-commerce,ACC10526
+C00527,Fictional Customer 00527,Waikato,E-commerce,ACC10527
+C00528,Fictional Customer 00528,Auckland,Wholesale,ACC10528
+C00529,Fictional Customer 00529,Bay of Plenty,E-commerce,ACC10529
+C00530,Fictional Customer 00530,Wellington,Wholesale,ACC10530
+C00531,Fictional Customer 00531,Wellington,Wholesale,ACC10531
+C00532,Fictional Customer 00532,Canterbury,E-commerce,ACC10532
+C00533,Fictional Customer 00533,Auckland,Retail,ACC10533
+C00534,Fictional Customer 00534,Canterbury,Hospitality,ACC10534
+C00535,Fictional Customer 00535,Canterbury,Retail,ACC10535
+C00536,Fictional Customer 00536,Waikato,Wholesale,ACC10536
+C00537,Fictional Customer 00537,Canterbury,Retail,ACC10537
+C00538,Fictional Customer 00538,Wellington,Wholesale,ACC10538
+C00539,Fictional Customer 00539,Waikato,Hospitality,ACC10539
+C00540,Fictional Customer 00540,Waikato,E-commerce,ACC10540
+C00541,Fictional Customer 00541,Waikato,Hospitality,ACC10541
+C00542,Fictional Customer 00542,Auckland,E-commerce,ACC10542
+C00543,Fictional Customer 00543,Wellington,Wholesale,ACC10543
+C00544,Fictional Customer 00544,Wellington,E-commerce,ACC10544
+C00545,Fictional Customer 00545,Canterbury,E-commerce,ACC10545
+C00546,Fictional Customer 00546,Auckland,E-commerce,ACC10546
+C00547,Fictional Customer 00547,Bay of Plenty,Retail,ACC10547
+C00548,Fictional Customer 00548,Wellington,Retail,ACC10548
+C00549,Fictional Customer 00549,Canterbury,Retail,ACC10549
+C00550,Fictional Customer 00550,Bay of Plenty,Retail,ACC10550
+C00551,Fictional Customer 00551,Auckland,Wholesale,ACC10551
+C00552,Fictional Customer 00552,Auckland,Wholesale,ACC10552
+C00553,Fictional Customer 00553,Canterbury,Hospitality,ACC10553
+C00554,Fictional Customer 00554,Canterbury,E-commerce,ACC10554
+C00555,Fictional Customer 00555,Bay of Plenty,Retail,ACC10555
+C00556,Fictional Customer 00556,Canterbury,Wholesale,ACC10556
+C00557,Fictional Customer 00557,Wellington,Hospitality,ACC10557
+C00558,Fictional Customer 00558,Canterbury,Retail,ACC10558
+C00559,Fictional Customer 00559,Canterbury,E-commerce,ACC10559
+C00560,Fictional Customer 00560,Wellington,E-commerce,ACC10560
+C00561,Fictional Customer 00561,Auckland,Retail,ACC10561
+C00562,Fictional Customer 00562,Canterbury,Retail,ACC10562
+C00563,Fictional Customer 00563,Wellington,E-commerce,ACC10563
+C00564,Fictional Customer 00564,Wellington,Retail,ACC10564
+C00565,Fictional Customer 00565,Waikato,Wholesale,ACC10565
+C00566,Fictional Customer 00566,Auckland,Wholesale,ACC10566
+C00567,Fictional Customer 00567,Auckland,Retail,ACC10567
+C00568,Fictional Customer 00568,Bay of Plenty,Wholesale,ACC10568
+C00569,Fictional Customer 00569,Waikato,E-commerce,ACC10569
+C00570,Fictional Customer 00570,Waikato,Retail,ACC10570
+C00571,Fictional Customer 00571,Waikato,E-commerce,ACC10571
+C00572,Fictional Customer 00572,Auckland,Wholesale,ACC10572
+C00573,Fictional Customer 00573,Bay of Plenty,Retail,ACC10573
+C00574,Fictional Customer 00574,Canterbury,Retail,ACC10574
+C00575,Fictional Customer 00575,Bay of Plenty,Wholesale,ACC10575
+C00576,Fictional Customer 00576,Auckland,Retail,ACC10576
+C00577,Fictional Customer 00577,Auckland,E-commerce,ACC10577
+C00578,Fictional Customer 00578,Waikato,Retail,ACC10578
+C00579,Fictional Customer 00579,Wellington,Wholesale,ACC10579
+C00580,Fictional Customer 00580,Canterbury,E-commerce,ACC10580
+C00581,Fictional Customer 00581,Wellington,Wholesale,ACC10581
+C00582,Fictional Customer 00582,Bay of Plenty,Hospitality,ACC10582
+C00583,Fictional Customer 00583,Canterbury,Hospitality,ACC10583
+C00584,Fictional Customer 00584,Canterbury,Retail,ACC10584
+C00585,Fictional Customer 00585,Bay of Plenty,Retail,ACC10585
+C00586,Fictional Customer 00586,Bay of Plenty,Retail,ACC10586
+C00587,Fictional Customer 00587,Canterbury,Retail,ACC10587
+C00588,Fictional Customer 00588,Waikato,E-commerce,ACC10588
+C00589,Fictional Customer 00589,Wellington,Retail,ACC10589
+C00590,Fictional Customer 00590,Waikato,Retail,ACC10590
+C00591,Fictional Customer 00591,Waikato,Wholesale,ACC10591
+C00592,Fictional Customer 00592,Canterbury,Wholesale,ACC10592
+C00593,Fictional Customer 00593,Auckland,Hospitality,ACC10593
+C00594,Fictional Customer 00594,Wellington,E-commerce,ACC10594
+C00595,Fictional Customer 00595,Canterbury,Retail,ACC10595
+C00596,Fictional Customer 00596,Canterbury,Retail,ACC10596
+C00597,Fictional Customer 00597,Canterbury,Hospitality,ACC10597
+C00598,Fictional Customer 00598,Bay of Plenty,E-commerce,ACC10598
+C00599,Fictional Customer 00599,Bay of Plenty,Retail,ACC10599
+C00600,Fictional Customer 00600,Wellington,Retail,ACC10600
+C00601,Fictional Customer 00601,Waikato,Retail,ACC10601
+C00602,Fictional Customer 00602,Wellington,Retail,ACC10602
+C00603,Fictional Customer 00603,Canterbury,Retail,ACC10603
+C00604,Fictional Customer 00604,Waikato,E-commerce,ACC10604
+C00605,Fictional Customer 00605,Bay of Plenty,Retail,ACC10605
+C00606,Fictional Customer 00606,Auckland,Hospitality,ACC10606
+C00607,Fictional Customer 00607,Bay of Plenty,Hospitality,ACC10607
+C00608,Fictional Customer 00608,Auckland,Wholesale,ACC10608
+C00609,Fictional Customer 00609,Wellington,E-commerce,ACC10609
+C00610,Fictional Customer 00610,Canterbury,Retail,ACC10610
+C00611,Fictional Customer 00611,Wellington,Retail,ACC10611
+C00612,Fictional Customer 00612,Bay of Plenty,Hospitality,ACC10612
+C00613,Fictional Customer 00613,Wellington,Retail,ACC10613
+C00614,Fictional Customer 00614,Bay of Plenty,Retail,ACC10614
+C00615,Fictional Customer 00615,Auckland,E-commerce,ACC10615
+C00616,Fictional Customer 00616,Wellington,Retail,ACC10616
+C00617,Fictional Customer 00617,Auckland,Wholesale,ACC10617
+C00618,Fictional Customer 00618,Bay of Plenty,Hospitality,ACC10618
+C00619,Fictional Customer 00619,Auckland,E-commerce,ACC10619
+C00620,Fictional Customer 00620,Wellington,E-commerce,ACC10620
+C00621,Fictional Customer 00621,Canterbury,Retail,ACC10621
+C00622,Fictional Customer 00622,Bay of Plenty,Retail,ACC10622
+C00623,Fictional Customer 00623,Bay of Plenty,Retail,ACC10623
+C00624,Fictional Customer 00624,Wellington,Wholesale,ACC10624
+C00625,Fictional Customer 00625,Canterbury,Retail,ACC10625
+C00626,Fictional Customer 00626,Auckland,Retail,ACC10626
+C00627,Fictional Customer 00627,Waikato,E-commerce,ACC10627
+C00628,Fictional Customer 00628,Wellington,Wholesale,ACC10628
+C00629,Fictional Customer 00629,Canterbury,Retail,ACC10629
+C00630,Fictional Customer 00630,Canterbury,E-commerce,ACC10630
+C00631,Fictional Customer 00631,Auckland,Retail,ACC10631
+C00632,Fictional Customer 00632,Auckland,E-commerce,ACC10632
+C00633,Fictional Customer 00633,Auckland,Retail,ACC10633
+C00634,Fictional Customer 00634,Auckland,E-commerce,ACC10634
+C00635,Fictional Customer 00635,Bay of Plenty,Wholesale,ACC10635
+C00636,Fictional Customer 00636,Waikato,Wholesale,ACC10636
+C00637,Fictional Customer 00637,Bay of Plenty,Wholesale,ACC10637
+C00638,Fictional Customer 00638,Canterbury,Retail,ACC10638
+C00639,Fictional Customer 00639,Canterbury,E-commerce,ACC10639
+C00640,Fictional Customer 00640,Waikato,Retail,ACC10640
+C00641,Fictional Customer 00641,Waikato,Retail,ACC10641
+C00642,Fictional Customer 00642,Auckland,Retail,ACC10642
+C00643,Fictional Customer 00643,Auckland,Wholesale,ACC10643
+C00644,Fictional Customer 00644,Auckland,Wholesale,ACC10644
+C00645,Fictional Customer 00645,Bay of Plenty,Wholesale,ACC10645
+C00646,Fictional Customer 00646,Bay of Plenty,Retail,ACC10646
+C00647,Fictional Customer 00647,Canterbury,E-commerce,ACC10647
+C00648,Fictional Customer 00648,Wellington,E-commerce,ACC10648
+C00649,Fictional Customer 00649,Waikato,Wholesale,ACC10649
+C00650,Fictional Customer 00650,Wellington,Retail,ACC10650
+C00651,Fictional Customer 00651,Wellington,Retail,ACC10651
+C00652,Fictional Customer 00652,Wellington,Retail,ACC10652
+C00653,Fictional Customer 00653,Wellington,E-commerce,ACC10653
+C00654,Fictional Customer 00654,Bay of Plenty,Retail,ACC10654
+C00655,Fictional Customer 00655,Bay of Plenty,Retail,ACC10655
+C00656,Fictional Customer 00656,Waikato,Hospitality,ACC10656
+C00657,Fictional Customer 00657,Waikato,Hospitality,ACC10657
+C00658,Fictional Customer 00658,Wellington,Wholesale,ACC10658
+C00659,Fictional Customer 00659,Canterbury,E-commerce,ACC10659
+C00660,Fictional Customer 00660,Canterbury,Hospitality,ACC10660
+C00661,Fictional Customer 00661,Wellington,Wholesale,ACC10661
+C00662,Fictional Customer 00662,Canterbury,Wholesale,ACC10662
+C00663,Fictional Customer 00663,Auckland,Wholesale,ACC10663
+C00664,Fictional Customer 00664,Wellington,Retail,ACC10664
+C00665,Fictional Customer 00665,Wellington,Wholesale,ACC10665
+C00666,Fictional Customer 00666,Canterbury,E-commerce,ACC10666
+C00667,Fictional Customer 00667,Wellington,E-commerce,ACC10667
+C00668,Fictional Customer 00668,Waikato,Retail,ACC10668
+C00669,Fictional Customer 00669,Waikato,Wholesale,ACC10669
+C00670,Fictional Customer 00670,Bay of Plenty,Hospitality,ACC10670
+C00671,Fictional Customer 00671,Bay of Plenty,Wholesale,ACC10671
+C00672,Fictional Customer 00672,Bay of Plenty,Retail,ACC10672
+C00673,Fictional Customer 00673,Wellington,Wholesale,ACC10673
+C00674,Fictional Customer 00674,Auckland,Retail,ACC10674
+C00675,Fictional Customer 00675,Auckland,Retail,ACC10675
+C00676,Fictional Customer 00676,Bay of Plenty,Retail,ACC10676
+C00677,Fictional Customer 00677,Wellington,Wholesale,ACC10677
+C00678,Fictional Customer 00678,Auckland,Retail,ACC10678
+C00679,Fictional Customer 00679,Wellington,Wholesale,ACC10679
+C00680,Fictional Customer 00680,Canterbury,Wholesale,ACC10680
+C00681,Fictional Customer 00681,Bay of Plenty,Wholesale,ACC10681
+C00682,Fictional Customer 00682,Wellington,Wholesale,ACC10682
+C00683,Fictional Customer 00683,Bay of Plenty,Retail,ACC10683
+C00684,Fictional Customer 00684,Waikato,E-commerce,ACC10684
+C00685,Fictional Customer 00685,Bay of Plenty,Retail,ACC10685
+C00686,Fictional Customer 00686,Auckland,Retail,ACC10686
+C00687,Fictional Customer 00687,Wellington,Hospitality,ACC10687
+C00688,Fictional Customer 00688,Canterbury,E-commerce,ACC10688
+C00689,Fictional Customer 00689,Bay of Plenty,E-commerce,ACC10689
+C00690,Fictional Customer 00690,Waikato,Wholesale,ACC10690
+C00691,Fictional Customer 00691,Canterbury,Wholesale,ACC10691
+C00692,Fictional Customer 00692,Waikato,Wholesale,ACC10692
+C00693,Fictional Customer 00693,Canterbury,E-commerce,ACC10693
+C00694,Fictional Customer 00694,Waikato,Retail,ACC10694
+C00695,Fictional Customer 00695,Auckland,Wholesale,ACC10695
+C00696,Fictional Customer 00696,Auckland,Retail,ACC10696
+C00697,Fictional Customer 00697,Bay of Plenty,Retail,ACC10697
+C00698,Fictional Customer 00698,Auckland,Hospitality,ACC10698
+C00699,Fictional Customer 00699,Bay of Plenty,Wholesale,ACC10699
+C00700,Fictional Customer 00700,Auckland,Wholesale,ACC10700
+C00701,Fictional Customer 00701,Bay of Plenty,Retail,ACC10701
+C00702,Fictional Customer 00702,Bay of Plenty,Retail,ACC10702
+C00703,Fictional Customer 00703,Wellington,Wholesale,ACC10703
+C00704,Fictional Customer 00704,Auckland,Retail,ACC10704
+C00705,Fictional Customer 00705,Auckland,Wholesale,ACC10705
+C00706,Fictional Customer 00706,Canterbury,Wholesale,ACC10706
+C00707,Fictional Customer 00707,Waikato,Hospitality,ACC10707
+C00708,Fictional Customer 00708,Auckland,Wholesale,ACC10708
+C00709,Fictional Customer 00709,Waikato,Wholesale,ACC10709
+C00710,Fictional Customer 00710,Waikato,Wholesale,ACC10710
+C00711,Fictional Customer 00711,Auckland,E-commerce,ACC10711
+C00712,Fictional Customer 00712,Wellington,Hospitality,ACC10712
+C00713,Fictional Customer 00713,Canterbury,Hospitality,ACC10713
+C00714,Fictional Customer 00714,Auckland,Retail,ACC10714
+C00715,Fictional Customer 00715,Bay of Plenty,Retail,ACC10715
+C00716,Fictional Customer 00716,Waikato,Retail,ACC10716
+C00717,Fictional Customer 00717,Canterbury,Hospitality,ACC10717
+C00718,Fictional Customer 00718,Auckland,Wholesale,ACC10718
+C00719,Fictional Customer 00719,Waikato,Wholesale,ACC10719
+C00720,Fictional Customer 00720,Wellington,Hospitality,ACC10720
+C00721,Fictional Customer 00721,Waikato,E-commerce,ACC10721
+C00722,Fictional Customer 00722,Waikato,Wholesale,ACC10722
+C00723,Fictional Customer 00723,Bay of Plenty,Wholesale,ACC10723
+C00724,Fictional Customer 00724,Canterbury,Wholesale,ACC10724
+C00725,Fictional Customer 00725,Auckland,Wholesale,ACC10725
+C00726,Fictional Customer 00726,Bay of Plenty,E-commerce,ACC10726
+C00727,Fictional Customer 00727,Auckland,Retail,ACC10727
+C00728,Fictional Customer 00728,Canterbury,Wholesale,ACC10728
+C00729,Fictional Customer 00729,Auckland,Wholesale,ACC10729
+C00730,Fictional Customer 00730,Wellington,Wholesale,ACC10730
+C00731,Fictional Customer 00731,Canterbury,Retail,ACC10731
+C00732,Fictional Customer 00732,Wellington,Retail,ACC10732
+C00733,Fictional Customer 00733,Canterbury,Wholesale,ACC10733
+C00734,Fictional Customer 00734,Wellington,Retail,ACC10734
+C00735,Fictional Customer 00735,Wellington,Retail,ACC10735
+C00736,Fictional Customer 00736,Auckland,Retail,ACC10736
+C00737,Fictional Customer 00737,Canterbury,E-commerce,ACC10737
+C00738,Fictional Customer 00738,Bay of Plenty,Wholesale,ACC10738
+C00739,Fictional Customer 00739,Waikato,Retail,ACC10739
+C00740,Fictional Customer 00740,Wellington,Hospitality,ACC10740
+C00741,Fictional Customer 00741,Waikato,Wholesale,ACC10741
+C00742,Fictional Customer 00742,Canterbury,Retail,ACC10742
+C00743,Fictional Customer 00743,Bay of Plenty,Retail,ACC10743
+C00744,Fictional Customer 00744,Wellington,Wholesale,ACC10744
+C00745,Fictional Customer 00745,Bay of Plenty,Wholesale,ACC10745
+C00746,Fictional Customer 00746,Wellington,Wholesale,ACC10746
+C00747,Fictional Customer 00747,Wellington,Wholesale,ACC10747
+C00748,Fictional Customer 00748,Waikato,Wholesale,ACC10748
+C00749,Fictional Customer 00749,Wellington,Retail,ACC10749
+C00750,Fictional Customer 00750,Bay of Plenty,Retail,ACC10750
+C00751,Fictional Customer 00751,Waikato,Wholesale,ACC10751
+C00752,Fictional Customer 00752,Bay of Plenty,Wholesale,ACC10752
+C00753,Fictional Customer 00753,Wellington,E-commerce,ACC10753
+C00754,Fictional Customer 00754,Waikato,Retail,ACC10754
+C00755,Fictional Customer 00755,Bay of Plenty,Retail,ACC10755
+C00756,Fictional Customer 00756,Bay of Plenty,Wholesale,ACC10756
+C00757,Fictional Customer 00757,Bay of Plenty,Retail,ACC10757
+C00758,Fictional Customer 00758,Bay of Plenty,Hospitality,ACC10758
+C00759,Fictional Customer 00759,Wellington,E-commerce,ACC10759
+C00760,Fictional Customer 00760,Waikato,Retail,ACC10760
+C00761,Fictional Customer 00761,Canterbury,E-commerce,ACC10761
+C00762,Fictional Customer 00762,Bay of Plenty,Hospitality,ACC10762
+C00763,Fictional Customer 00763,Canterbury,Wholesale,ACC10763
+C00764,Fictional Customer 00764,Wellington,E-commerce,ACC10764
+C00765,Fictional Customer 00765,Wellington,E-commerce,ACC10765
+C00766,Fictional Customer 00766,Canterbury,Wholesale,ACC10766
+C00767,Fictional Customer 00767,Auckland,Wholesale,ACC10767
+C00768,Fictional Customer 00768,Canterbury,Retail,ACC10768
+C00769,Fictional Customer 00769,Wellington,Wholesale,ACC10769
+C00770,Fictional Customer 00770,Waikato,Retail,ACC10770
+C00771,Fictional Customer 00771,Canterbury,E-commerce,ACC10771
+C00772,Fictional Customer 00772,Bay of Plenty,E-commerce,ACC10772
+C00773,Fictional Customer 00773,Waikato,Hospitality,ACC10773
+C00774,Fictional Customer 00774,Auckland,E-commerce,ACC10774
+C00775,Fictional Customer 00775,Bay of Plenty,Retail,ACC10775
+C00776,Fictional Customer 00776,Bay of Plenty,Wholesale,ACC10776
+C00777,Fictional Customer 00777,Canterbury,Wholesale,ACC10777
+C00778,Fictional Customer 00778,Canterbury,Wholesale,ACC10778
+C00779,Fictional Customer 00779,Auckland,Retail,ACC10779
+C00780,Fictional Customer 00780,Waikato,E-commerce,ACC10780
+C00781,Fictional Customer 00781,Auckland,Hospitality,ACC10781
+C00782,Fictional Customer 00782,Bay of Plenty,Wholesale,ACC10782
+C00783,Fictional Customer 00783,Wellington,Wholesale,ACC10783
+C00784,Fictional Customer 00784,Waikato,Wholesale,ACC10784
+C00785,Fictional Customer 00785,Bay of Plenty,Hospitality,ACC10785
+C00786,Fictional Customer 00786,Canterbury,Wholesale,ACC10786
+C00787,Fictional Customer 00787,Wellington,Wholesale,ACC10787
+C00788,Fictional Customer 00788,Canterbury,Wholesale,ACC10788
+C00789,Fictional Customer 00789,Canterbury,E-commerce,ACC10789
+C00790,Fictional Customer 00790,Canterbury,E-commerce,ACC10790
+C00791,Fictional Customer 00791,Auckland,Retail,ACC10791
+C00792,Fictional Customer 00792,Bay of Plenty,Retail,ACC10792
+C00793,Fictional Customer 00793,Wellington,E-commerce,ACC10793
+C00794,Fictional Customer 00794,Waikato,Wholesale,ACC10794
+C00795,Fictional Customer 00795,Bay of Plenty,Retail,ACC10795
+C00796,Fictional Customer 00796,Wellington,Wholesale,ACC10796
+C00797,Fictional Customer 00797,Auckland,Retail,ACC10797
+C00798,Fictional Customer 00798,Auckland,Retail,ACC10798
+C00799,Fictional Customer 00799,Waikato,E-commerce,ACC10799
+C00800,Fictional Customer 00800,Canterbury,Wholesale,ACC10800
+C00801,Fictional Customer 00801,Auckland,Wholesale,ACC10801
+C00802,Fictional Customer 00802,Canterbury,Wholesale,ACC10802
+C00803,Fictional Customer 00803,Auckland,Retail,ACC10803
+C00804,Fictional Customer 00804,Canterbury,Retail,ACC10804
+C00805,Fictional Customer 00805,Bay of Plenty,Retail,ACC10805
+C00806,Fictional Customer 00806,Bay of Plenty,Retail,ACC10806
+C00807,Fictional Customer 00807,Waikato,E-commerce,ACC10807
+C00808,Fictional Customer 00808,Wellington,Wholesale,ACC10808
+C00809,Fictional Customer 00809,Auckland,Wholesale,ACC10809
+C00810,Fictional Customer 00810,Wellington,Retail,ACC10810
+C00811,Fictional Customer 00811,Bay of Plenty,Wholesale,ACC10811
+C00812,Fictional Customer 00812,Canterbury,Retail,ACC10812
+C00813,Fictional Customer 00813,Bay of Plenty,Retail,ACC10813
+C00814,Fictional Customer 00814,Waikato,Hospitality,ACC10814
+C00815,Fictional Customer 00815,Auckland,Wholesale,ACC10815
+C00816,Fictional Customer 00816,Waikato,Retail,ACC10816
+C00817,Fictional Customer 00817,Wellington,Hospitality,ACC10817
+C00818,Fictional Customer 00818,Canterbury,Retail,ACC10818
+C00819,Fictional Customer 00819,Waikato,Retail,ACC10819
+C00820,Fictional Customer 00820,Canterbury,Retail,ACC10820
+C00821,Fictional Customer 00821,Wellington,Retail,ACC10821
+C00822,Fictional Customer 00822,Bay of Plenty,Wholesale,ACC10822
+C00823,Fictional Customer 00823,Auckland,Retail,ACC10823
+C00824,Fictional Customer 00824,Waikato,Retail,ACC10824
+C00825,Fictional Customer 00825,Wellington,Wholesale,ACC10825
+C00826,Fictional Customer 00826,Waikato,Retail,ACC10826
+C00827,Fictional Customer 00827,Auckland,Wholesale,ACC10827
+C00828,Fictional Customer 00828,Waikato,Hospitality,ACC10828
+C00829,Fictional Customer 00829,Waikato,Wholesale,ACC10829
+C00830,Fictional Customer 00830,Wellington,E-commerce,ACC10830
+C00831,Fictional Customer 00831,Bay of Plenty,E-commerce,ACC10831
+C00832,Fictional Customer 00832,Wellington,Retail,ACC10832
+C00833,Fictional Customer 00833,Waikato,Retail,ACC10833
+C00834,Fictional Customer 00834,Bay of Plenty,Hospitality,ACC10834
+C00835,Fictional Customer 00835,Bay of Plenty,Wholesale,ACC10835
+C00836,Fictional Customer 00836,Wellington,Wholesale,ACC10836
+C00837,Fictional Customer 00837,Canterbury,Retail,ACC10837
+C00838,Fictional Customer 00838,Canterbury,Hospitality,ACC10838
+C00839,Fictional Customer 00839,Wellington,Retail,ACC10839
+C00840,Fictional Customer 00840,Auckland,Hospitality,ACC10840
+C00841,Fictional Customer 00841,Bay of Plenty,Wholesale,ACC10841
+C00842,Fictional Customer 00842,Auckland,Wholesale,ACC10842
+C00843,Fictional Customer 00843,Canterbury,Retail,ACC10843
+C00844,Fictional Customer 00844,Waikato,Wholesale,ACC10844
+C00845,Fictional Customer 00845,Canterbury,Wholesale,ACC10845
+C00846,Fictional Customer 00846,Bay of Plenty,Hospitality,ACC10846
+C00847,Fictional Customer 00847,Waikato,E-commerce,ACC10847
+C00848,Fictional Customer 00848,Wellington,Retail,ACC10848
+C00849,Fictional Customer 00849,Waikato,Retail,ACC10849
+C00850,Fictional Customer 00850,Bay of Plenty,Wholesale,ACC10850
+C00851,Fictional Customer 00851,Bay of Plenty,Retail,ACC10851
+C00852,Fictional Customer 00852,Waikato,Hospitality,ACC10852
+C00853,Fictional Customer 00853,Auckland,Wholesale,ACC10853
+C00854,Fictional Customer 00854,Bay of Plenty,Wholesale,ACC10854
+C00855,Fictional Customer 00855,Canterbury,Retail,ACC10855
+C00856,Fictional Customer 00856,Canterbury,Retail,ACC10856
+C00857,Fictional Customer 00857,Wellington,Hospitality,ACC10857
+C00858,Fictional Customer 00858,Waikato,Wholesale,ACC10858
+C00859,Fictional Customer 00859,Auckland,E-commerce,ACC10859
+C00860,Fictional Customer 00860,Wellington,Retail,ACC10860
+C00861,Fictional Customer 00861,Canterbury,E-commerce,ACC10861
+C00862,Fictional Customer 00862,Bay of Plenty,Retail,ACC10862
+C00863,Fictional Customer 00863,Bay of Plenty,E-commerce,ACC10863
+C00864,Fictional Customer 00864,Wellington,Retail,ACC10864
+C00865,Fictional Customer 00865,Wellington,Retail,ACC10865
+C00866,Fictional Customer 00866,Waikato,E-commerce,ACC10866
+C00867,Fictional Customer 00867,Bay of Plenty,Wholesale,ACC10867
+C00868,Fictional Customer 00868,Auckland,Hospitality,ACC10868
+C00869,Fictional Customer 00869,Bay of Plenty,Wholesale,ACC10869
+C00870,Fictional Customer 00870,Canterbury,E-commerce,ACC10870
+C00871,Fictional Customer 00871,Auckland,Hospitality,ACC10871
+C00872,Fictional Customer 00872,Canterbury,Retail,ACC10872
+C00873,Fictional Customer 00873,Auckland,Wholesale,ACC10873
+C00874,Fictional Customer 00874,Wellington,Wholesale,ACC10874
+C00875,Fictional Customer 00875,Waikato,E-commerce,ACC10875
+C00876,Fictional Customer 00876,Auckland,Retail,ACC10876
+C00877,Fictional Customer 00877,Waikato,Wholesale,ACC10877
+C00878,Fictional Customer 00878,Canterbury,Retail,ACC10878
+C00879,Fictional Customer 00879,Bay of Plenty,E-commerce,ACC10879
+C00880,Fictional Customer 00880,Bay of Plenty,Wholesale,ACC10880
+C00881,Fictional Customer 00881,Auckland,Wholesale,ACC10881
+C00882,Fictional Customer 00882,Bay of Plenty,Retail,ACC10882
+C00883,Fictional Customer 00883,Waikato,Retail,ACC10883
+C00884,Fictional Customer 00884,Waikato,Retail,ACC10884
+C00885,Fictional Customer 00885,Wellington,Retail,ACC10885
+C00886,Fictional Customer 00886,Auckland,Hospitality,ACC10886
+C00887,Fictional Customer 00887,Waikato,Retail,ACC10887
+C00888,Fictional Customer 00888,Bay of Plenty,Retail,ACC10888
+C00889,Fictional Customer 00889,Canterbury,Retail,ACC10889
+C00890,Fictional Customer 00890,Wellington,E-commerce,ACC10890
+C00891,Fictional Customer 00891,Canterbury,Wholesale,ACC10891
+C00892,Fictional Customer 00892,Waikato,Retail,ACC10892
+C00893,Fictional Customer 00893,Bay of Plenty,Retail,ACC10893
+C00894,Fictional Customer 00894,Auckland,Hospitality,ACC10894
+C00895,Fictional Customer 00895,Waikato,Wholesale,ACC10895
+C00896,Fictional Customer 00896,Waikato,Retail,ACC10896
+C00897,Fictional Customer 00897,Canterbury,Retail,ACC10897
+C00898,Fictional Customer 00898,Auckland,Wholesale,ACC10898
+C00899,Fictional Customer 00899,Bay of Plenty,Wholesale,ACC10899
+C00900,Fictional Customer 00900,Auckland,Wholesale,ACC10900
+C00901,Fictional Customer 00901,Waikato,Wholesale,ACC10901
+C00902,Fictional Customer 00902,Wellington,Retail,ACC10902
+C00903,Fictional Customer 00903,Canterbury,Retail,ACC10903
+C00904,Fictional Customer 00904,Waikato,Wholesale,ACC10904
+C00905,Fictional Customer 00905,Bay of Plenty,Retail,ACC10905
+C00906,Fictional Customer 00906,Auckland,Retail,ACC10906
+C00907,Fictional Customer 00907,Bay of Plenty,Retail,ACC10907
+C00908,Fictional Customer 00908,Canterbury,Wholesale,ACC10908
+C00909,Fictional Customer 00909,Wellington,E-commerce,ACC10909
+C00910,Fictional Customer 00910,Canterbury,E-commerce,ACC10910
+C00911,Fictional Customer 00911,Auckland,Wholesale,ACC10911
+C00912,Fictional Customer 00912,Canterbury,Wholesale,ACC10912
+C00913,Fictional Customer 00913,Bay of Plenty,Retail,ACC10913
+C00914,Fictional Customer 00914,Auckland,Retail,ACC10914
+C00915,Fictional Customer 00915,Waikato,Wholesale,ACC10915
+C00916,Fictional Customer 00916,Canterbury,Wholesale,ACC10916
+C00917,Fictional Customer 00917,Auckland,Retail,ACC10917
+C00918,Fictional Customer 00918,Wellington,Hospitality,ACC10918
+C00919,Fictional Customer 00919,Waikato,Retail,ACC10919
+C00920,Fictional Customer 00920,Auckland,E-commerce,ACC10920
+C00921,Fictional Customer 00921,Auckland,Wholesale,ACC10921
+C00922,Fictional Customer 00922,Canterbury,Wholesale,ACC10922
+C00923,Fictional Customer 00923,Waikato,Wholesale,ACC10923
+C00924,Fictional Customer 00924,Wellington,Retail,ACC10924
+C00925,Fictional Customer 00925,Canterbury,Retail,ACC10925
+C00926,Fictional Customer 00926,Bay of Plenty,Retail,ACC10926
+C00927,Fictional Customer 00927,Canterbury,Retail,ACC10927
+C00928,Fictional Customer 00928,Waikato,Retail,ACC10928
+C00929,Fictional Customer 00929,Canterbury,Wholesale,ACC10929
+C00930,Fictional Customer 00930,Canterbury,Wholesale,ACC10930
+C00931,Fictional Customer 00931,Auckland,Retail,ACC10931
+C00932,Fictional Customer 00932,Auckland,Hospitality,ACC10932
+C00933,Fictional Customer 00933,Canterbury,Retail,ACC10933
+C00934,Fictional Customer 00934,Wellington,Wholesale,ACC10934
+C00935,Fictional Customer 00935,Canterbury,Retail,ACC10935
+C00936,Fictional Customer 00936,Canterbury,Wholesale,ACC10936
+C00937,Fictional Customer 00937,Bay of Plenty,Retail,ACC10937
+C00938,Fictional Customer 00938,Canterbury,Wholesale,ACC10938
+C00939,Fictional Customer 00939,Wellington,Hospitality,ACC10939
+C00940,Fictional Customer 00940,Wellington,Hospitality,ACC10940
+C00941,Fictional Customer 00941,Waikato,Wholesale,ACC10941
+C00942,Fictional Customer 00942,Waikato,Wholesale,ACC10942
+C00943,Fictional Customer 00943,Bay of Plenty,Retail,ACC10943
+C00944,Fictional Customer 00944,Canterbury,Wholesale,ACC10944
+C00945,Fictional Customer 00945,Waikato,E-commerce,ACC10945
+C00946,Fictional Customer 00946,Canterbury,Hospitality,ACC10946
+C00947,Fictional Customer 00947,Waikato,Retail,ACC10947
+C00948,Fictional Customer 00948,Wellington,Hospitality,ACC10948
+C00949,Fictional Customer 00949,Auckland,E-commerce,ACC10949
+C00950,Fictional Customer 00950,Canterbury,Wholesale,ACC10950
+C00951,Fictional Customer 00951,Auckland,Retail,ACC10951
+C00952,Fictional Customer 00952,Canterbury,Wholesale,ACC10952
+C00953,Fictional Customer 00953,Wellington,E-commerce,ACC10953
+C00954,Fictional Customer 00954,Waikato,E-commerce,ACC10954
+C00955,Fictional Customer 00955,Auckland,Wholesale,ACC10955
+C00956,Fictional Customer 00956,Wellington,Retail,ACC10956
+C00957,Fictional Customer 00957,Wellington,E-commerce,ACC10957
+C00958,Fictional Customer 00958,Canterbury,Hospitality,ACC10958
+C00959,Fictional Customer 00959,Wellington,E-commerce,ACC10959
+C00960,Fictional Customer 00960,Waikato,E-commerce,ACC10960
+C00961,Fictional Customer 00961,Auckland,Wholesale,ACC10961
+C00962,Fictional Customer 00962,Wellington,E-commerce,ACC10962
+C00963,Fictional Customer 00963,Wellington,Wholesale,ACC10963
+C00964,Fictional Customer 00964,Wellington,Retail,ACC10964
+C00965,Fictional Customer 00965,Wellington,Retail,ACC10965
+C00966,Fictional Customer 00966,Bay of Plenty,Retail,ACC10966
+C00967,Fictional Customer 00967,Canterbury,Hospitality,ACC10967
+C00968,Fictional Customer 00968,Wellington,Retail,ACC10968
+C00969,Fictional Customer 00969,Canterbury,Wholesale,ACC10969
+C00970,Fictional Customer 00970,Canterbury,Retail,ACC10970
+C00971,Fictional Customer 00971,Waikato,Hospitality,ACC10971
+C00972,Fictional Customer 00972,Waikato,Hospitality,ACC10972
+C00973,Fictional Customer 00973,Canterbury,Retail,ACC10973
+C00974,Fictional Customer 00974,Wellington,E-commerce,ACC10974
+C00975,Fictional Customer 00975,Waikato,Retail,ACC10975
+C00976,Fictional Customer 00976,Auckland,Hospitality,ACC10976
+C00977,Fictional Customer 00977,Canterbury,Wholesale,ACC10977
+C00978,Fictional Customer 00978,Auckland,Retail,ACC10978
+C00979,Fictional Customer 00979,Canterbury,Retail,ACC10979
+C00980,Fictional Customer 00980,Bay of Plenty,Wholesale,ACC10980
+C00981,Fictional Customer 00981,Wellington,Retail,ACC10981
+C00982,Fictional Customer 00982,Canterbury,Retail,ACC10982
+C00983,Fictional Customer 00983,Auckland,E-commerce,ACC10983
+C00984,Fictional Customer 00984,Canterbury,E-commerce,ACC10984
+C00985,Fictional Customer 00985,Wellington,Retail,ACC10985
+C00986,Fictional Customer 00986,Canterbury,E-commerce,ACC10986
+C00987,Fictional Customer 00987,Wellington,Wholesale,ACC10987
+C00988,Fictional Customer 00988,Auckland,Hospitality,ACC10988
+C00989,Fictional Customer 00989,Auckland,E-commerce,ACC10989
+C00990,Fictional Customer 00990,Wellington,E-commerce,ACC10990
+C00991,Fictional Customer 00991,Wellington,Hospitality,ACC10991
+C00992,Fictional Customer 00992,Auckland,Wholesale,ACC10992
+C00993,Fictional Customer 00993,Waikato,Wholesale,ACC10993
+C00994,Fictional Customer 00994,Canterbury,Wholesale,ACC10994
+C00995,Fictional Customer 00995,Canterbury,Wholesale,ACC10995
+C00996,Fictional Customer 00996,Wellington,E-commerce,ACC10996
+C00997,Fictional Customer 00997,Canterbury,Wholesale,ACC10997
+C00998,Fictional Customer 00998,Auckland,Retail,ACC10998
+C00999,Fictional Customer 00999,Bay of Plenty,E-commerce,ACC10999
+C01000,Fictional Customer 01000,Canterbury,Hospitality,ACC11000
+C01001,Fictional Customer 01001,Wellington,Wholesale,ACC11001
+C01002,Fictional Customer 01002,Canterbury,E-commerce,ACC11002
+C01003,Fictional Customer 01003,Canterbury,Wholesale,ACC11003
+C01004,Fictional Customer 01004,Wellington,Retail,ACC11004
+C01005,Fictional Customer 01005,Auckland,E-commerce,ACC11005
+C01006,Fictional Customer 01006,Canterbury,E-commerce,ACC11006
+C01007,Fictional Customer 01007,Waikato,Retail,ACC11007
+C01008,Fictional Customer 01008,Wellington,Retail,ACC11008
+C01009,Fictional Customer 01009,Bay of Plenty,E-commerce,ACC11009
+C01010,Fictional Customer 01010,Wellington,E-commerce,ACC11010
+C01011,Fictional Customer 01011,Bay of Plenty,Hospitality,ACC11011
+C01012,Fictional Customer 01012,Waikato,Wholesale,ACC11012
+C01013,Fictional Customer 01013,Canterbury,E-commerce,ACC11013
+C01014,Fictional Customer 01014,Auckland,Wholesale,ACC11014
+C01015,Fictional Customer 01015,Bay of Plenty,Wholesale,ACC11015
+C01016,Fictional Customer 01016,Bay of Plenty,Hospitality,ACC11016
+C01017,Fictional Customer 01017,Bay of Plenty,Wholesale,ACC11017
+C01018,Fictional Customer 01018,Waikato,Wholesale,ACC11018
+C01019,Fictional Customer 01019,Bay of Plenty,Wholesale,ACC11019
+C01020,Fictional Customer 01020,Bay of Plenty,Retail,ACC11020
+C01021,Fictional Customer 01021,Bay of Plenty,Retail,ACC11021
+C01022,Fictional Customer 01022,Bay of Plenty,Retail,ACC11022
+C01023,Fictional Customer 01023,Bay of Plenty,Retail,ACC11023
+C01024,Fictional Customer 01024,Wellington,Hospitality,ACC11024
+C01025,Fictional Customer 01025,Bay of Plenty,E-commerce,ACC11025
+C01026,Fictional Customer 01026,Bay of Plenty,Hospitality,ACC11026
+C01027,Fictional Customer 01027,Waikato,Wholesale,ACC11027
+C01028,Fictional Customer 01028,Waikato,Retail,ACC11028
+C01029,Fictional Customer 01029,Canterbury,Wholesale,ACC11029
+C01030,Fictional Customer 01030,Bay of Plenty,Retail,ACC11030
+C01031,Fictional Customer 01031,Bay of Plenty,Retail,ACC11031
+C01032,Fictional Customer 01032,Canterbury,Retail,ACC11032
+C01033,Fictional Customer 01033,Bay of Plenty,Retail,ACC11033
+C01034,Fictional Customer 01034,Waikato,Wholesale,ACC11034
+C01035,Fictional Customer 01035,Waikato,Wholesale,ACC11035
+C01036,Fictional Customer 01036,Auckland,Hospitality,ACC11036
+C01037,Fictional Customer 01037,Bay of Plenty,Retail,ACC11037
+C01038,Fictional Customer 01038,Waikato,Retail,ACC11038
+C01039,Fictional Customer 01039,Canterbury,Hospitality,ACC11039
+C01040,Fictional Customer 01040,Waikato,Hospitality,ACC11040
+C01041,Fictional Customer 01041,Wellington,Retail,ACC11041
+C01042,Fictional Customer 01042,Waikato,E-commerce,ACC11042
+C01043,Fictional Customer 01043,Bay of Plenty,Retail,ACC11043
+C01044,Fictional Customer 01044,Waikato,Wholesale,ACC11044
+C01045,Fictional Customer 01045,Canterbury,Hospitality,ACC11045
+C01046,Fictional Customer 01046,Waikato,Retail,ACC11046
+C01047,Fictional Customer 01047,Auckland,E-commerce,ACC11047
+C01048,Fictional Customer 01048,Auckland,Hospitality,ACC11048
+C01049,Fictional Customer 01049,Canterbury,Retail,ACC11049
+C01050,Fictional Customer 01050,Bay of Plenty,E-commerce,ACC11050
+C01051,Fictional Customer 01051,Auckland,E-commerce,ACC11051
+C01052,Fictional Customer 01052,Canterbury,Hospitality,ACC11052
+C01053,Fictional Customer 01053,Bay of Plenty,Retail,ACC11053
+C01054,Fictional Customer 01054,Waikato,E-commerce,ACC11054
+C01055,Fictional Customer 01055,Wellington,Wholesale,ACC11055
+C01056,Fictional Customer 01056,Bay of Plenty,Hospitality,ACC11056
+C01057,Fictional Customer 01057,Wellington,Hospitality,ACC11057
+C01058,Fictional Customer 01058,Waikato,Retail,ACC11058
+C01059,Fictional Customer 01059,Auckland,E-commerce,ACC11059
+C01060,Fictional Customer 01060,Waikato,Wholesale,ACC11060
+C01061,Fictional Customer 01061,Auckland,E-commerce,ACC11061
+C01062,Fictional Customer 01062,Bay of Plenty,Retail,ACC11062
+C01063,Fictional Customer 01063,Auckland,E-commerce,ACC11063
+C01064,Fictional Customer 01064,Canterbury,Hospitality,ACC11064
+C01065,Fictional Customer 01065,Auckland,Wholesale,ACC11065
+C01066,Fictional Customer 01066,Bay of Plenty,E-commerce,ACC11066
+C01067,Fictional Customer 01067,Wellington,Hospitality,ACC11067
+C01068,Fictional Customer 01068,Wellington,Hospitality,ACC11068
+C01069,Fictional Customer 01069,Wellington,Hospitality,ACC11069
+C01070,Fictional Customer 01070,Wellington,Wholesale,ACC11070
+C01071,Fictional Customer 01071,Canterbury,E-commerce,ACC11071
+C01072,Fictional Customer 01072,Auckland,Retail,ACC11072
+C01073,Fictional Customer 01073,Bay of Plenty,Wholesale,ACC11073
+C01074,Fictional Customer 01074,Wellington,Retail,ACC11074
+C01075,Fictional Customer 01075,Canterbury,Wholesale,ACC11075
+C01076,Fictional Customer 01076,Waikato,Retail,ACC11076
+C01077,Fictional Customer 01077,Wellington,Hospitality,ACC11077
+C01078,Fictional Customer 01078,Waikato,Hospitality,ACC11078
+C01079,Fictional Customer 01079,Bay of Plenty,Retail,ACC11079
+C01080,Fictional Customer 01080,Wellington,E-commerce,ACC11080
+C01081,Fictional Customer 01081,Waikato,E-commerce,ACC11081
+C01082,Fictional Customer 01082,Wellington,Retail,ACC11082
+C01083,Fictional Customer 01083,Waikato,Wholesale,ACC11083
+C01084,Fictional Customer 01084,Bay of Plenty,Retail,ACC11084
+C01085,Fictional Customer 01085,Bay of Plenty,Hospitality,ACC11085
+C01086,Fictional Customer 01086,Canterbury,Hospitality,ACC11086
+C01087,Fictional Customer 01087,Auckland,Retail,ACC11087
+C01088,Fictional Customer 01088,Canterbury,Retail,ACC11088
+C01089,Fictional Customer 01089,Wellington,Wholesale,ACC11089
+C01090,Fictional Customer 01090,Wellington,Retail,ACC11090
+C01091,Fictional Customer 01091,Bay of Plenty,Wholesale,ACC11091
+C01092,Fictional Customer 01092,Waikato,Wholesale,ACC11092
+C01093,Fictional Customer 01093,Canterbury,Retail,ACC11093
+C01094,Fictional Customer 01094,Canterbury,Wholesale,ACC11094
+C01095,Fictional Customer 01095,Canterbury,Wholesale,ACC11095
+C01096,Fictional Customer 01096,Wellington,Retail,ACC11096
+C01097,Fictional Customer 01097,Canterbury,E-commerce,ACC11097
+C01098,Fictional Customer 01098,Auckland,Wholesale,ACC11098
+C01099,Fictional Customer 01099,Waikato,E-commerce,ACC11099
+C01100,Fictional Customer 01100,Waikato,Retail,ACC11100
+C01101,Fictional Customer 01101,Waikato,Wholesale,ACC11101
+C01102,Fictional Customer 01102,Bay of Plenty,Retail,ACC11102
+C01103,Fictional Customer 01103,Waikato,Retail,ACC11103
+C01104,Fictional Customer 01104,Canterbury,E-commerce,ACC11104
+C01105,Fictional Customer 01105,Auckland,Wholesale,ACC11105
+C01106,Fictional Customer 01106,Auckland,E-commerce,ACC11106
+C01107,Fictional Customer 01107,Canterbury,E-commerce,ACC11107
+C01108,Fictional Customer 01108,Auckland,Wholesale,ACC11108
+C01109,Fictional Customer 01109,Waikato,E-commerce,ACC11109
+C01110,Fictional Customer 01110,Auckland,E-commerce,ACC11110
+C01111,Fictional Customer 01111,Waikato,E-commerce,ACC11111
+C01112,Fictional Customer 01112,Auckland,Retail,ACC11112
+C01113,Fictional Customer 01113,Waikato,Retail,ACC11113
+C01114,Fictional Customer 01114,Waikato,E-commerce,ACC11114
+C01115,Fictional Customer 01115,Auckland,Wholesale,ACC11115
+C01116,Fictional Customer 01116,Auckland,E-commerce,ACC11116
+C01117,Fictional Customer 01117,Waikato,E-commerce,ACC11117
+C01118,Fictional Customer 01118,Wellington,E-commerce,ACC11118
+C01119,Fictional Customer 01119,Auckland,Hospitality,ACC11119
+C01120,Fictional Customer 01120,Canterbury,Retail,ACC11120
+C01121,Fictional Customer 01121,Waikato,Retail,ACC11121
+C01122,Fictional Customer 01122,Bay of Plenty,Retail,ACC11122
+C01123,Fictional Customer 01123,Waikato,Hospitality,ACC11123
+C01124,Fictional Customer 01124,Canterbury,Retail,ACC11124
+C01125,Fictional Customer 01125,Auckland,Retail,ACC11125
+C01126,Fictional Customer 01126,Auckland,Retail,ACC11126
+C01127,Fictional Customer 01127,Canterbury,Wholesale,ACC11127
+C01128,Fictional Customer 01128,Bay of Plenty,Retail,ACC11128
+C01129,Fictional Customer 01129,Waikato,Wholesale,ACC11129
+C01130,Fictional Customer 01130,Wellington,Retail,ACC11130
+C01131,Fictional Customer 01131,Waikato,E-commerce,ACC11131
+C01132,Fictional Customer 01132,Bay of Plenty,Wholesale,ACC11132
+C01133,Fictional Customer 01133,Auckland,E-commerce,ACC11133
+C01134,Fictional Customer 01134,Bay of Plenty,E-commerce,ACC11134
+C01135,Fictional Customer 01135,Bay of Plenty,E-commerce,ACC11135
+C01136,Fictional Customer 01136,Auckland,Retail,ACC11136
+C01137,Fictional Customer 01137,Canterbury,Wholesale,ACC11137
+C01138,Fictional Customer 01138,Waikato,Wholesale,ACC11138
+C01139,Fictional Customer 01139,Canterbury,Wholesale,ACC11139
+C01140,Fictional Customer 01140,Waikato,E-commerce,ACC11140
+C01141,Fictional Customer 01141,Waikato,Retail,ACC11141
+C01142,Fictional Customer 01142,Bay of Plenty,Wholesale,ACC11142
+C01143,Fictional Customer 01143,Auckland,Retail,ACC11143
+C01144,Fictional Customer 01144,Wellington,E-commerce,ACC11144
+C01145,Fictional Customer 01145,Bay of Plenty,E-commerce,ACC11145
+C01146,Fictional Customer 01146,Bay of Plenty,Wholesale,ACC11146
+C01147,Fictional Customer 01147,Bay of Plenty,Retail,ACC11147
+C01148,Fictional Customer 01148,Auckland,Wholesale,ACC11148
+C01149,Fictional Customer 01149,Wellington,E-commerce,ACC11149
+C01150,Fictional Customer 01150,Bay of Plenty,Wholesale,ACC11150
+C01151,Fictional Customer 01151,Wellington,Wholesale,ACC11151
+C01152,Fictional Customer 01152,Auckland,Hospitality,ACC11152
+C01153,Fictional Customer 01153,Bay of Plenty,Retail,ACC11153
+C01154,Fictional Customer 01154,Canterbury,Wholesale,ACC11154
+C01155,Fictional Customer 01155,Wellington,E-commerce,ACC11155
+C01156,Fictional Customer 01156,Wellington,Wholesale,ACC11156
+C01157,Fictional Customer 01157,Waikato,Retail,ACC11157
+C01158,Fictional Customer 01158,Wellington,Retail,ACC11158
+C01159,Fictional Customer 01159,Wellington,Retail,ACC11159
+C01160,Fictional Customer 01160,Wellington,Hospitality,ACC11160
+C01161,Fictional Customer 01161,Bay of Plenty,Wholesale,ACC11161
+C01162,Fictional Customer 01162,Waikato,Retail,ACC11162
+C01163,Fictional Customer 01163,Bay of Plenty,Wholesale,ACC11163
+C01164,Fictional Customer 01164,Wellington,Wholesale,ACC11164
+C01165,Fictional Customer 01165,Bay of Plenty,Wholesale,ACC11165
+C01166,Fictional Customer 01166,Canterbury,Hospitality,ACC11166
+C01167,Fictional Customer 01167,Auckland,Retail,ACC11167
+C01168,Fictional Customer 01168,Bay of Plenty,Hospitality,ACC11168
+C01169,Fictional Customer 01169,Auckland,E-commerce,ACC11169
+C01170,Fictional Customer 01170,Bay of Plenty,E-commerce,ACC11170
+C01171,Fictional Customer 01171,Bay of Plenty,Hospitality,ACC11171
+C01172,Fictional Customer 01172,Wellington,Wholesale,ACC11172
+C01173,Fictional Customer 01173,Waikato,Retail,ACC11173
+C01174,Fictional Customer 01174,Wellington,Retail,ACC11174
+C01175,Fictional Customer 01175,Auckland,Retail,ACC11175
+C01176,Fictional Customer 01176,Waikato,Wholesale,ACC11176
+C01177,Fictional Customer 01177,Waikato,Wholesale,ACC11177
+C01178,Fictional Customer 01178,Bay of Plenty,E-commerce,ACC11178
+C01179,Fictional Customer 01179,Auckland,Retail,ACC11179
+C01180,Fictional Customer 01180,Auckland,Retail,ACC11180
+C01181,Fictional Customer 01181,Bay of Plenty,E-commerce,ACC11181
+C01182,Fictional Customer 01182,Wellington,Wholesale,ACC11182
+C01183,Fictional Customer 01183,Auckland,Retail,ACC11183
+C01184,Fictional Customer 01184,Auckland,Wholesale,ACC11184
+C01185,Fictional Customer 01185,Auckland,E-commerce,ACC11185
+C01186,Fictional Customer 01186,Canterbury,Retail,ACC11186
+C01187,Fictional Customer 01187,Waikato,Retail,ACC11187
+C01188,Fictional Customer 01188,Wellington,Hospitality,ACC11188
+C01189,Fictional Customer 01189,Auckland,Wholesale,ACC11189
+C01190,Fictional Customer 01190,Canterbury,Hospitality,ACC11190
+C01191,Fictional Customer 01191,Canterbury,Wholesale,ACC11191
+C01192,Fictional Customer 01192,Bay of Plenty,E-commerce,ACC11192
+C01193,Fictional Customer 01193,Bay of Plenty,Wholesale,ACC11193
+C01194,Fictional Customer 01194,Canterbury,Retail,ACC11194
+C01195,Fictional Customer 01195,Auckland,Wholesale,ACC11195
+C01196,Fictional Customer 01196,Wellington,Retail,ACC11196
+C01197,Fictional Customer 01197,Waikato,E-commerce,ACC11197
+C01198,Fictional Customer 01198,Auckland,E-commerce,ACC11198
+C01199,Fictional Customer 01199,Canterbury,Retail,ACC11199
+C01200,Fictional Customer 01200,Wellington,E-commerce,ACC11200
+C01201,Fictional Customer 01201,Canterbury,Wholesale,ACC11201
+C01202,Fictional Customer 01202,Waikato,Retail,ACC11202
+C01203,Fictional Customer 01203,Bay of Plenty,Retail,ACC11203
+C01204,Fictional Customer 01204,Canterbury,E-commerce,ACC11204
+C01205,Fictional Customer 01205,Waikato,E-commerce,ACC11205
+C01206,Fictional Customer 01206,Canterbury,E-commerce,ACC11206
+C01207,Fictional Customer 01207,Canterbury,Wholesale,ACC11207
+C01208,Fictional Customer 01208,Waikato,Retail,ACC11208
+C01209,Fictional Customer 01209,Bay of Plenty,Hospitality,ACC11209
+C01210,Fictional Customer 01210,Auckland,Wholesale,ACC11210
+C01211,Fictional Customer 01211,Auckland,E-commerce,ACC11211
+C01212,Fictional Customer 01212,Auckland,Retail,ACC11212
+C01213,Fictional Customer 01213,Wellington,Retail,ACC11213
+C01214,Fictional Customer 01214,Canterbury,E-commerce,ACC11214
+C01215,Fictional Customer 01215,Wellington,Wholesale,ACC11215
+C01216,Fictional Customer 01216,Auckland,Retail,ACC11216
+C01217,Fictional Customer 01217,Auckland,E-commerce,ACC11217
+C01218,Fictional Customer 01218,Canterbury,Retail,ACC11218
+C01219,Fictional Customer 01219,Bay of Plenty,E-commerce,ACC11219
+C01220,Fictional Customer 01220,Auckland,E-commerce,ACC11220
+C01221,Fictional Customer 01221,Canterbury,E-commerce,ACC11221
+C01222,Fictional Customer 01222,Waikato,Retail,ACC11222
+C01223,Fictional Customer 01223,Wellington,Retail,ACC11223
+C01224,Fictional Customer 01224,Waikato,E-commerce,ACC11224
+C01225,Fictional Customer 01225,Wellington,Retail,ACC11225
+C01226,Fictional Customer 01226,Bay of Plenty,Retail,ACC11226
+C01227,Fictional Customer 01227,Canterbury,Retail,ACC11227
+C01228,Fictional Customer 01228,Canterbury,E-commerce,ACC11228
+C01229,Fictional Customer 01229,Wellington,Wholesale,ACC11229
+C01230,Fictional Customer 01230,Waikato,E-commerce,ACC11230
+C01231,Fictional Customer 01231,Auckland,E-commerce,ACC11231
+C01232,Fictional Customer 01232,Wellington,Wholesale,ACC11232
+C01233,Fictional Customer 01233,Wellington,Wholesale,ACC11233
+C01234,Fictional Customer 01234,Canterbury,Retail,ACC11234
+C01235,Fictional Customer 01235,Wellington,Wholesale,ACC11235
+C01236,Fictional Customer 01236,Waikato,E-commerce,ACC11236
+C01237,Fictional Customer 01237,Waikato,Wholesale,ACC11237
+C01238,Fictional Customer 01238,Auckland,E-commerce,ACC11238
+C01239,Fictional Customer 01239,Wellington,Hospitality,ACC11239
+C01240,Fictional Customer 01240,Waikato,Retail,ACC11240
+C01241,Fictional Customer 01241,Wellington,Retail,ACC11241
+C01242,Fictional Customer 01242,Waikato,Wholesale,ACC11242
+C01243,Fictional Customer 01243,Waikato,Retail,ACC11243
+C01244,Fictional Customer 01244,Wellington,Retail,ACC11244
+C01245,Fictional Customer 01245,Canterbury,E-commerce,ACC11245
+C01246,Fictional Customer 01246,Bay of Plenty,Wholesale,ACC11246
+C01247,Fictional Customer 01247,Bay of Plenty,Wholesale,ACC11247
+C01248,Fictional Customer 01248,Auckland,Wholesale,ACC11248
+C01249,Fictional Customer 01249,Bay of Plenty,Wholesale,ACC11249
+C01250,Fictional Customer 01250,Auckland,E-commerce,ACC11250
+C01251,Fictional Customer 01251,Bay of Plenty,Retail,ACC11251
+C01252,Fictional Customer 01252,Canterbury,Hospitality,ACC11252
+C01253,Fictional Customer 01253,Canterbury,Hospitality,ACC11253
+C01254,Fictional Customer 01254,Bay of Plenty,Retail,ACC11254
+C01255,Fictional Customer 01255,Wellington,E-commerce,ACC11255
+C01256,Fictional Customer 01256,Bay of Plenty,E-commerce,ACC11256
+C01257,Fictional Customer 01257,Auckland,Retail,ACC11257
+C01258,Fictional Customer 01258,Wellington,E-commerce,ACC11258
+C01259,Fictional Customer 01259,Wellington,Wholesale,ACC11259
+C01260,Fictional Customer 01260,Waikato,Retail,ACC11260
+C01261,Fictional Customer 01261,Waikato,E-commerce,ACC11261
+C01262,Fictional Customer 01262,Bay of Plenty,Hospitality,ACC11262
+C01263,Fictional Customer 01263,Waikato,E-commerce,ACC11263
+C01264,Fictional Customer 01264,Auckland,E-commerce,ACC11264
+C01265,Fictional Customer 01265,Wellington,Retail,ACC11265
+C01266,Fictional Customer 01266,Waikato,E-commerce,ACC11266
+C01267,Fictional Customer 01267,Bay of Plenty,Wholesale,ACC11267
+C01268,Fictional Customer 01268,Waikato,E-commerce,ACC11268
+C01269,Fictional Customer 01269,Waikato,Retail,ACC11269
+C01270,Fictional Customer 01270,Auckland,Retail,ACC11270
+C01271,Fictional Customer 01271,Wellington,Wholesale,ACC11271
+C01272,Fictional Customer 01272,Waikato,Retail,ACC11272
+C01273,Fictional Customer 01273,Canterbury,Retail,ACC11273
+C01274,Fictional Customer 01274,Canterbury,Hospitality,ACC11274
+C01275,Fictional Customer 01275,Wellington,Wholesale,ACC11275
+C01276,Fictional Customer 01276,Auckland,Retail,ACC11276
+C01277,Fictional Customer 01277,Bay of Plenty,E-commerce,ACC11277
+C01278,Fictional Customer 01278,Waikato,E-commerce,ACC11278
+C01279,Fictional Customer 01279,Bay of Plenty,E-commerce,ACC11279
+C01280,Fictional Customer 01280,Canterbury,Wholesale,ACC11280
+C01281,Fictional Customer 01281,Waikato,Hospitality,ACC11281
+C01282,Fictional Customer 01282,Auckland,Wholesale,ACC11282
+C01283,Fictional Customer 01283,Bay of Plenty,Retail,ACC11283
+C01284,Fictional Customer 01284,Wellington,Retail,ACC11284
+C01285,Fictional Customer 01285,Auckland,Retail,ACC11285
+C01286,Fictional Customer 01286,Waikato,Wholesale,ACC11286
+C01287,Fictional Customer 01287,Auckland,Wholesale,ACC11287
+C01288,Fictional Customer 01288,Wellington,Retail,ACC11288
+C01289,Fictional Customer 01289,Bay of Plenty,Retail,ACC11289
+C01290,Fictional Customer 01290,Auckland,Hospitality,ACC11290
+C01291,Fictional Customer 01291,Bay of Plenty,E-commerce,ACC11291
+C01292,Fictional Customer 01292,Canterbury,Wholesale,ACC11292
+C01293,Fictional Customer 01293,Auckland,Wholesale,ACC11293
+C01294,Fictional Customer 01294,Canterbury,Hospitality,ACC11294
+C01295,Fictional Customer 01295,Bay of Plenty,Retail,ACC11295
+C01296,Fictional Customer 01296,Wellington,Retail,ACC11296
+C01297,Fictional Customer 01297,Bay of Plenty,E-commerce,ACC11297
+C01298,Fictional Customer 01298,Wellington,E-commerce,ACC11298
+C01299,Fictional Customer 01299,Auckland,Retail,ACC11299
+C01300,Fictional Customer 01300,Auckland,E-commerce,ACC11300
+C01301,Fictional Customer 01301,Bay of Plenty,Wholesale,ACC11301
+C01302,Fictional Customer 01302,Auckland,Retail,ACC11302
+C01303,Fictional Customer 01303,Auckland,E-commerce,ACC11303
+C01304,Fictional Customer 01304,Waikato,E-commerce,ACC11304
+C01305,Fictional Customer 01305,Bay of Plenty,Retail,ACC11305
+C01306,Fictional Customer 01306,Canterbury,Wholesale,ACC11306
+C01307,Fictional Customer 01307,Auckland,E-commerce,ACC11307
+C01308,Fictional Customer 01308,Waikato,Wholesale,ACC11308
+C01309,Fictional Customer 01309,Wellington,Retail,ACC11309
+C01310,Fictional Customer 01310,Wellington,Wholesale,ACC11310
+C01311,Fictional Customer 01311,Waikato,Wholesale,ACC11311
+C01312,Fictional Customer 01312,Canterbury,Retail,ACC11312
+C01313,Fictional Customer 01313,Wellington,Retail,ACC11313
+C01314,Fictional Customer 01314,Waikato,Wholesale,ACC11314
+C01315,Fictional Customer 01315,Waikato,Hospitality,ACC11315
+C01316,Fictional Customer 01316,Waikato,Retail,ACC11316
+C01317,Fictional Customer 01317,Auckland,Hospitality,ACC11317
+C01318,Fictional Customer 01318,Waikato,Wholesale,ACC11318
+C01319,Fictional Customer 01319,Auckland,Wholesale,ACC11319
+C01320,Fictional Customer 01320,Wellington,E-commerce,ACC11320
+C01321,Fictional Customer 01321,Canterbury,Wholesale,ACC11321
+C01322,Fictional Customer 01322,Canterbury,Retail,ACC11322
+C01323,Fictional Customer 01323,Canterbury,E-commerce,ACC11323
+C01324,Fictional Customer 01324,Canterbury,Hospitality,ACC11324
+C01325,Fictional Customer 01325,Auckland,Wholesale,ACC11325
+C01326,Fictional Customer 01326,Canterbury,Retail,ACC11326
+C01327,Fictional Customer 01327,Auckland,Retail,ACC11327
+C01328,Fictional Customer 01328,Canterbury,Retail,ACC11328
+C01329,Fictional Customer 01329,Auckland,Retail,ACC11329
+C01330,Fictional Customer 01330,Bay of Plenty,Wholesale,ACC11330
+C01331,Fictional Customer 01331,Auckland,Hospitality,ACC11331
+C01332,Fictional Customer 01332,Bay of Plenty,Retail,ACC11332
+C01333,Fictional Customer 01333,Auckland,Hospitality,ACC11333
+C01334,Fictional Customer 01334,Bay of Plenty,Wholesale,ACC11334
+C01335,Fictional Customer 01335,Bay of Plenty,Retail,ACC11335
+C01336,Fictional Customer 01336,Bay of Plenty,Retail,ACC11336
+C01337,Fictional Customer 01337,Bay of Plenty,Wholesale,ACC11337
+C01338,Fictional Customer 01338,Auckland,Retail,ACC11338
+C01339,Fictional Customer 01339,Waikato,E-commerce,ACC11339
+C01340,Fictional Customer 01340,Waikato,Wholesale,ACC11340
+C01341,Fictional Customer 01341,Bay of Plenty,Wholesale,ACC11341
+C01342,Fictional Customer 01342,Wellington,Retail,ACC11342
+C01343,Fictional Customer 01343,Wellington,E-commerce,ACC11343
+C01344,Fictional Customer 01344,Bay of Plenty,Wholesale,ACC11344
+C01345,Fictional Customer 01345,Waikato,Wholesale,ACC11345
+C01346,Fictional Customer 01346,Canterbury,E-commerce,ACC11346
+C01347,Fictional Customer 01347,Wellington,Wholesale,ACC11347
+C01348,Fictional Customer 01348,Auckland,Retail,ACC11348
+C01349,Fictional Customer 01349,Canterbury,E-commerce,ACC11349
+C01350,Fictional Customer 01350,Auckland,Wholesale,ACC11350
+C01351,Fictional Customer 01351,Bay of Plenty,E-commerce,ACC11351
+C01352,Fictional Customer 01352,Bay of Plenty,E-commerce,ACC11352
+C01353,Fictional Customer 01353,Wellington,Retail,ACC11353
+C01354,Fictional Customer 01354,Auckland,E-commerce,ACC11354
+C01355,Fictional Customer 01355,Auckland,Retail,ACC11355
+C01356,Fictional Customer 01356,Canterbury,Retail,ACC11356
+C01357,Fictional Customer 01357,Wellington,Wholesale,ACC11357
+C01358,Fictional Customer 01358,Waikato,Retail,ACC11358
+C01359,Fictional Customer 01359,Bay of Plenty,E-commerce,ACC11359
+C01360,Fictional Customer 01360,Bay of Plenty,Wholesale,ACC11360
+C01361,Fictional Customer 01361,Wellington,Hospitality,ACC11361
+C01362,Fictional Customer 01362,Bay of Plenty,E-commerce,ACC11362
+C01363,Fictional Customer 01363,Auckland,Retail,ACC11363
+C01364,Fictional Customer 01364,Waikato,Hospitality,ACC11364
+C01365,Fictional Customer 01365,Canterbury,Retail,ACC11365
+C01366,Fictional Customer 01366,Canterbury,E-commerce,ACC11366
+C01367,Fictional Customer 01367,Auckland,Wholesale,ACC11367
+C01368,Fictional Customer 01368,Auckland,Hospitality,ACC11368
+C01369,Fictional Customer 01369,Wellington,E-commerce,ACC11369
+C01370,Fictional Customer 01370,Waikato,Hospitality,ACC11370
+C01371,Fictional Customer 01371,Canterbury,Wholesale,ACC11371
+C01372,Fictional Customer 01372,Waikato,Wholesale,ACC11372
+C01373,Fictional Customer 01373,Canterbury,Hospitality,ACC11373
+C01374,Fictional Customer 01374,Bay of Plenty,Retail,ACC11374
+C01375,Fictional Customer 01375,Bay of Plenty,Wholesale,ACC11375
+C01376,Fictional Customer 01376,Wellington,E-commerce,ACC11376
+C01377,Fictional Customer 01377,Wellington,Retail,ACC11377
+C01378,Fictional Customer 01378,Waikato,Retail,ACC11378
+C01379,Fictional Customer 01379,Waikato,E-commerce,ACC11379
+C01380,Fictional Customer 01380,Canterbury,Wholesale,ACC11380
+C01381,Fictional Customer 01381,Bay of Plenty,Hospitality,ACC11381
+C01382,Fictional Customer 01382,Auckland,Hospitality,ACC11382
+C01383,Fictional Customer 01383,Bay of Plenty,Retail,ACC11383
+C01384,Fictional Customer 01384,Waikato,E-commerce,ACC11384
+C01385,Fictional Customer 01385,Bay of Plenty,Wholesale,ACC11385
+C01386,Fictional Customer 01386,Canterbury,E-commerce,ACC11386
+C01387,Fictional Customer 01387,Auckland,Hospitality,ACC11387
+C01388,Fictional Customer 01388,Canterbury,Hospitality,ACC11388
+C01389,Fictional Customer 01389,Canterbury,Wholesale,ACC11389
+C01390,Fictional Customer 01390,Waikato,Wholesale,ACC11390
+C01391,Fictional Customer 01391,Canterbury,Hospitality,ACC11391
+C01392,Fictional Customer 01392,Canterbury,E-commerce,ACC11392
+C01393,Fictional Customer 01393,Canterbury,E-commerce,ACC11393
+C01394,Fictional Customer 01394,Waikato,Hospitality,ACC11394
+C01395,Fictional Customer 01395,Auckland,Retail,ACC11395
+C01396,Fictional Customer 01396,Waikato,Retail,ACC11396
+C01397,Fictional Customer 01397,Waikato,Retail,ACC11397
+C01398,Fictional Customer 01398,Wellington,Wholesale,ACC11398
+C01399,Fictional Customer 01399,Wellington,Wholesale,ACC11399
+C01400,Fictional Customer 01400,Auckland,Wholesale,ACC11400
+C01401,Fictional Customer 01401,Waikato,Hospitality,ACC11401
+C01402,Fictional Customer 01402,Wellington,Hospitality,ACC11402
+C01403,Fictional Customer 01403,Canterbury,Wholesale,ACC11403
+C01404,Fictional Customer 01404,Bay of Plenty,Wholesale,ACC11404
+C01405,Fictional Customer 01405,Auckland,E-commerce,ACC11405
+C01406,Fictional Customer 01406,Wellington,E-commerce,ACC11406
+C01407,Fictional Customer 01407,Wellington,Wholesale,ACC11407
+C01408,Fictional Customer 01408,Wellington,Retail,ACC11408
+C01409,Fictional Customer 01409,Wellington,E-commerce,ACC11409
+C01410,Fictional Customer 01410,Wellington,Wholesale,ACC11410
+C01411,Fictional Customer 01411,Auckland,Wholesale,ACC11411
+C01412,Fictional Customer 01412,Wellington,Retail,ACC11412
+C01413,Fictional Customer 01413,Bay of Plenty,E-commerce,ACC11413
+C01414,Fictional Customer 01414,Wellington,Retail,ACC11414
+C01415,Fictional Customer 01415,Bay of Plenty,Retail,ACC11415
+C01416,Fictional Customer 01416,Auckland,Retail,ACC11416
+C01417,Fictional Customer 01417,Waikato,Wholesale,ACC11417
+C01418,Fictional Customer 01418,Wellington,Hospitality,ACC11418
+C01419,Fictional Customer 01419,Waikato,Retail,ACC11419
+C01420,Fictional Customer 01420,Wellington,E-commerce,ACC11420
+C01421,Fictional Customer 01421,Wellington,E-commerce,ACC11421
+C01422,Fictional Customer 01422,Canterbury,Retail,ACC11422
+C01423,Fictional Customer 01423,Wellington,Hospitality,ACC11423
+C01424,Fictional Customer 01424,Canterbury,Retail,ACC11424
+C01425,Fictional Customer 01425,Wellington,E-commerce,ACC11425
+C01426,Fictional Customer 01426,Waikato,Wholesale,ACC11426
+C01427,Fictional Customer 01427,Canterbury,Hospitality,ACC11427
+C01428,Fictional Customer 01428,Waikato,Retail,ACC11428
+C01429,Fictional Customer 01429,Waikato,Retail,ACC11429
+C01430,Fictional Customer 01430,Wellington,Retail,ACC11430
+C01431,Fictional Customer 01431,Waikato,Wholesale,ACC11431
+C01432,Fictional Customer 01432,Canterbury,Hospitality,ACC11432
+C01433,Fictional Customer 01433,Waikato,Wholesale,ACC11433
+C01434,Fictional Customer 01434,Wellington,Wholesale,ACC11434
+C01435,Fictional Customer 01435,Canterbury,Retail,ACC11435
+C01436,Fictional Customer 01436,Auckland,Retail,ACC11436
+C01437,Fictional Customer 01437,Bay of Plenty,Hospitality,ACC11437
+C01438,Fictional Customer 01438,Waikato,Wholesale,ACC11438
+C01439,Fictional Customer 01439,Canterbury,Retail,ACC11439
+C01440,Fictional Customer 01440,Bay of Plenty,E-commerce,ACC11440
+C01441,Fictional Customer 01441,Waikato,E-commerce,ACC11441
+C01442,Fictional Customer 01442,Wellington,Retail,ACC11442
+C01443,Fictional Customer 01443,Canterbury,Retail,ACC11443
+C01444,Fictional Customer 01444,Wellington,Wholesale,ACC11444
+C01445,Fictional Customer 01445,Wellington,E-commerce,ACC11445
+C01446,Fictional Customer 01446,Waikato,Hospitality,ACC11446
+C01447,Fictional Customer 01447,Bay of Plenty,Wholesale,ACC11447
+C01448,Fictional Customer 01448,Canterbury,Wholesale,ACC11448
+C01449,Fictional Customer 01449,Waikato,Wholesale,ACC11449
+C01450,Fictional Customer 01450,Waikato,Retail,ACC11450
+C01451,Fictional Customer 01451,Bay of Plenty,Retail,ACC11451
+C01452,Fictional Customer 01452,Wellington,Retail,ACC11452
+C01453,Fictional Customer 01453,Bay of Plenty,Retail,ACC11453
+C01454,Fictional Customer 01454,Waikato,Retail,ACC11454
+C01455,Fictional Customer 01455,Bay of Plenty,E-commerce,ACC11455
+C01456,Fictional Customer 01456,Waikato,Wholesale,ACC11456
+C01457,Fictional Customer 01457,Wellington,Retail,ACC11457
+C01458,Fictional Customer 01458,Waikato,E-commerce,ACC11458
+C01459,Fictional Customer 01459,Wellington,Wholesale,ACC11459
+C01460,Fictional Customer 01460,Bay of Plenty,E-commerce,ACC11460
+C01461,Fictional Customer 01461,Auckland,Wholesale,ACC11461
+C01462,Fictional Customer 01462,Waikato,E-commerce,ACC11462
+C01463,Fictional Customer 01463,Bay of Plenty,Retail,ACC11463
+C01464,Fictional Customer 01464,Auckland,Wholesale,ACC11464
+C01465,Fictional Customer 01465,Auckland,Wholesale,ACC11465
+C01466,Fictional Customer 01466,Waikato,Wholesale,ACC11466
+C01467,Fictional Customer 01467,Bay of Plenty,E-commerce,ACC11467
+C01468,Fictional Customer 01468,Bay of Plenty,Retail,ACC11468
+C01469,Fictional Customer 01469,Wellington,E-commerce,ACC11469
+C01470,Fictional Customer 01470,Wellington,Retail,ACC11470
+C01471,Fictional Customer 01471,Waikato,E-commerce,ACC11471
+C01472,Fictional Customer 01472,Wellington,E-commerce,ACC11472
+C01473,Fictional Customer 01473,Auckland,Retail,ACC11473
+C01474,Fictional Customer 01474,Canterbury,Wholesale,ACC11474
+C01475,Fictional Customer 01475,Auckland,Retail,ACC11475
+C01476,Fictional Customer 01476,Wellington,Wholesale,ACC11476
+C01477,Fictional Customer 01477,Auckland,E-commerce,ACC11477
+C01478,Fictional Customer 01478,Auckland,Retail,ACC11478
+C01479,Fictional Customer 01479,Bay of Plenty,Retail,ACC11479
+C01480,Fictional Customer 01480,Bay of Plenty,Retail,ACC11480
+C01481,Fictional Customer 01481,Canterbury,Wholesale,ACC11481
+C01482,Fictional Customer 01482,Auckland,Wholesale,ACC11482
+C01483,Fictional Customer 01483,Wellington,Retail,ACC11483
+C01484,Fictional Customer 01484,Auckland,Retail,ACC11484
+C01485,Fictional Customer 01485,Bay of Plenty,Retail,ACC11485
+C01486,Fictional Customer 01486,Waikato,E-commerce,ACC11486
+C01487,Fictional Customer 01487,Wellington,Wholesale,ACC11487
+C01488,Fictional Customer 01488,Bay of Plenty,Wholesale,ACC11488
+C01489,Fictional Customer 01489,Bay of Plenty,Retail,ACC11489
+C01490,Fictional Customer 01490,Wellington,E-commerce,ACC11490
+C01491,Fictional Customer 01491,Auckland,Wholesale,ACC11491
+C01492,Fictional Customer 01492,Auckland,Retail,ACC11492
+C01493,Fictional Customer 01493,Canterbury,Wholesale,ACC11493
+C01494,Fictional Customer 01494,Canterbury,E-commerce,ACC11494
+C01495,Fictional Customer 01495,Bay of Plenty,Retail,ACC11495
+C01496,Fictional Customer 01496,Waikato,Retail,ACC11496
+C01497,Fictional Customer 01497,Auckland,Retail,ACC11497
+C01498,Fictional Customer 01498,Bay of Plenty,Hospitality,ACC11498
+C01499,Fictional Customer 01499,Waikato,Retail,ACC11499
+C01500,Fictional Customer 01500,Canterbury,Retail,ACC11500
+C01501,Fictional Customer 01501,Bay of Plenty,E-commerce,ACC11501
+C01502,Fictional Customer 01502,Bay of Plenty,Retail,ACC11502
+C01503,Fictional Customer 01503,Wellington,E-commerce,ACC11503
+C01504,Fictional Customer 01504,Bay of Plenty,Hospitality,ACC11504
+C01505,Fictional Customer 01505,Wellington,Retail,ACC11505
+C01506,Fictional Customer 01506,Waikato,Wholesale,ACC11506
+C01507,Fictional Customer 01507,Auckland,E-commerce,ACC11507
+C01508,Fictional Customer 01508,Waikato,Retail,ACC11508
+C01509,Fictional Customer 01509,Wellington,Wholesale,ACC11509
+C01510,Fictional Customer 01510,Wellington,Wholesale,ACC11510
+C01511,Fictional Customer 01511,Bay of Plenty,E-commerce,ACC11511
+C01512,Fictional Customer 01512,Bay of Plenty,Retail,ACC11512
+C01513,Fictional Customer 01513,Waikato,Retail,ACC11513
+C01514,Fictional Customer 01514,Auckland,Retail,ACC11514
+C01515,Fictional Customer 01515,Waikato,Wholesale,ACC11515
+C01516,Fictional Customer 01516,Auckland,Retail,ACC11516
+C01517,Fictional Customer 01517,Wellington,Wholesale,ACC11517
+C01518,Fictional Customer 01518,Bay of Plenty,E-commerce,ACC11518
+C01519,Fictional Customer 01519,Bay of Plenty,Retail,ACC11519
+C01520,Fictional Customer 01520,Bay of Plenty,Retail,ACC11520
+C01521,Fictional Customer 01521,Canterbury,E-commerce,ACC11521
+C01522,Fictional Customer 01522,Bay of Plenty,Retail,ACC11522
+C01523,Fictional Customer 01523,Bay of Plenty,Hospitality,ACC11523
+C01524,Fictional Customer 01524,Canterbury,Retail,ACC11524
+C01525,Fictional Customer 01525,Auckland,Wholesale,ACC11525
+C01526,Fictional Customer 01526,Auckland,Hospitality,ACC11526
+C01527,Fictional Customer 01527,Bay of Plenty,Retail,ACC11527
+C01528,Fictional Customer 01528,Wellington,E-commerce,ACC11528
+C01529,Fictional Customer 01529,Canterbury,Hospitality,ACC11529
+C01530,Fictional Customer 01530,Waikato,Retail,ACC11530
+C01531,Fictional Customer 01531,Wellington,Retail,ACC11531
+C01532,Fictional Customer 01532,Auckland,Wholesale,ACC11532
+C01533,Fictional Customer 01533,Waikato,Retail,ACC11533
+C01534,Fictional Customer 01534,Auckland,Hospitality,ACC11534
+C01535,Fictional Customer 01535,Canterbury,Wholesale,ACC11535
+C01536,Fictional Customer 01536,Canterbury,Retail,ACC11536
+C01537,Fictional Customer 01537,Wellington,Retail,ACC11537
+C01538,Fictional Customer 01538,Wellington,Retail,ACC11538
+C01539,Fictional Customer 01539,Auckland,Wholesale,ACC11539
+C01540,Fictional Customer 01540,Auckland,Wholesale,ACC11540
+C01541,Fictional Customer 01541,Waikato,Wholesale,ACC11541
+C01542,Fictional Customer 01542,Wellington,Retail,ACC11542
+C01543,Fictional Customer 01543,Canterbury,Retail,ACC11543
+C01544,Fictional Customer 01544,Waikato,Wholesale,ACC11544
+C01545,Fictional Customer 01545,Canterbury,Hospitality,ACC11545
+C01546,Fictional Customer 01546,Bay of Plenty,Retail,ACC11546
+C01547,Fictional Customer 01547,Wellington,E-commerce,ACC11547
+C01548,Fictional Customer 01548,Canterbury,Retail,ACC11548
+C01549,Fictional Customer 01549,Waikato,Retail,ACC11549
+C01550,Fictional Customer 01550,Wellington,Wholesale,ACC11550
+C01551,Fictional Customer 01551,Canterbury,Wholesale,ACC11551
+C01552,Fictional Customer 01552,Bay of Plenty,Retail,ACC11552
+C01553,Fictional Customer 01553,Wellington,Wholesale,ACC11553
+C01554,Fictional Customer 01554,Wellington,Retail,ACC11554
+C01555,Fictional Customer 01555,Bay of Plenty,Wholesale,ACC11555
+C01556,Fictional Customer 01556,Canterbury,E-commerce,ACC11556
+C01557,Fictional Customer 01557,Waikato,Wholesale,ACC11557
+C01558,Fictional Customer 01558,Waikato,Wholesale,ACC11558
+C01559,Fictional Customer 01559,Waikato,Retail,ACC11559
+C01560,Fictional Customer 01560,Wellington,Retail,ACC11560
+C01561,Fictional Customer 01561,Bay of Plenty,Wholesale,ACC11561
+C01562,Fictional Customer 01562,Waikato,Wholesale,ACC11562
+C01563,Fictional Customer 01563,Auckland,Wholesale,ACC11563
+C01564,Fictional Customer 01564,Bay of Plenty,Retail,ACC11564
+C01565,Fictional Customer 01565,Wellington,Hospitality,ACC11565
+C01566,Fictional Customer 01566,Bay of Plenty,Hospitality,ACC11566
+C01567,Fictional Customer 01567,Bay of Plenty,Retail,ACC11567
+C01568,Fictional Customer 01568,Auckland,Wholesale,ACC11568
+C01569,Fictional Customer 01569,Auckland,Wholesale,ACC11569
+C01570,Fictional Customer 01570,Waikato,Retail,ACC11570
+C01571,Fictional Customer 01571,Canterbury,Wholesale,ACC11571
+C01572,Fictional Customer 01572,Canterbury,Wholesale,ACC11572
+C01573,Fictional Customer 01573,Canterbury,Wholesale,ACC11573
+C01574,Fictional Customer 01574,Bay of Plenty,Retail,ACC11574
+C01575,Fictional Customer 01575,Wellington,Wholesale,ACC11575
+C01576,Fictional Customer 01576,Wellington,Hospitality,ACC11576
+C01577,Fictional Customer 01577,Auckland,E-commerce,ACC11577
+C01578,Fictional Customer 01578,Canterbury,Hospitality,ACC11578
+C01579,Fictional Customer 01579,Auckland,Wholesale,ACC11579
+C01580,Fictional Customer 01580,Canterbury,Retail,ACC11580
+C01581,Fictional Customer 01581,Wellington,Retail,ACC11581
+C01582,Fictional Customer 01582,Wellington,E-commerce,ACC11582
+C01583,Fictional Customer 01583,Canterbury,Retail,ACC11583
+C01584,Fictional Customer 01584,Canterbury,Retail,ACC11584
+C01585,Fictional Customer 01585,Waikato,E-commerce,ACC11585
+C01586,Fictional Customer 01586,Wellington,Wholesale,ACC11586
+C01587,Fictional Customer 01587,Wellington,Wholesale,ACC11587
+C01588,Fictional Customer 01588,Auckland,Wholesale,ACC11588
+C01589,Fictional Customer 01589,Bay of Plenty,Wholesale,ACC11589
+C01590,Fictional Customer 01590,Waikato,Hospitality,ACC11590
+C01591,Fictional Customer 01591,Waikato,E-commerce,ACC11591
+C01592,Fictional Customer 01592,Auckland,Hospitality,ACC11592
+C01593,Fictional Customer 01593,Canterbury,Retail,ACC11593
+C01594,Fictional Customer 01594,Canterbury,Retail,ACC11594
+C01595,Fictional Customer 01595,Wellington,Retail,ACC11595
+C01596,Fictional Customer 01596,Bay of Plenty,Retail,ACC11596
+C01597,Fictional Customer 01597,Waikato,Wholesale,ACC11597
+C01598,Fictional Customer 01598,Waikato,Wholesale,ACC11598
+C01599,Fictional Customer 01599,Bay of Plenty,Hospitality,ACC11599
+C01600,Fictional Customer 01600,Bay of Plenty,Wholesale,ACC11600
+C01601,Fictional Customer 01601,Bay of Plenty,Hospitality,ACC11601
+C01602,Fictional Customer 01602,Canterbury,Retail,ACC11602
+C01603,Fictional Customer 01603,Bay of Plenty,Wholesale,ACC11603
+C01604,Fictional Customer 01604,Waikato,Retail,ACC11604
+C01605,Fictional Customer 01605,Bay of Plenty,Hospitality,ACC11605
+C01606,Fictional Customer 01606,Canterbury,Wholesale,ACC11606
+C01607,Fictional Customer 01607,Wellington,Retail,ACC11607
+C01608,Fictional Customer 01608,Canterbury,E-commerce,ACC11608
+C01609,Fictional Customer 01609,Waikato,E-commerce,ACC11609
+C01610,Fictional Customer 01610,Bay of Plenty,E-commerce,ACC11610
+C01611,Fictional Customer 01611,Auckland,E-commerce,ACC11611
+C01612,Fictional Customer 01612,Bay of Plenty,Wholesale,ACC11612
+C01613,Fictional Customer 01613,Waikato,Hospitality,ACC11613
+C01614,Fictional Customer 01614,Wellington,E-commerce,ACC11614
+C01615,Fictional Customer 01615,Canterbury,Hospitality,ACC11615
+C01616,Fictional Customer 01616,Bay of Plenty,Wholesale,ACC11616
+C01617,Fictional Customer 01617,Wellington,Hospitality,ACC11617
+C01618,Fictional Customer 01618,Waikato,Retail,ACC11618
+C01619,Fictional Customer 01619,Waikato,Wholesale,ACC11619
+C01620,Fictional Customer 01620,Bay of Plenty,Wholesale,ACC11620
+C01621,Fictional Customer 01621,Wellington,Retail,ACC11621
+C01622,Fictional Customer 01622,Bay of Plenty,Retail,ACC11622
+C01623,Fictional Customer 01623,Bay of Plenty,E-commerce,ACC11623
+C01624,Fictional Customer 01624,Wellington,Wholesale,ACC11624
+C01625,Fictional Customer 01625,Auckland,E-commerce,ACC11625
+C01626,Fictional Customer 01626,Bay of Plenty,Retail,ACC11626
+C01627,Fictional Customer 01627,Wellington,Retail,ACC11627
+C01628,Fictional Customer 01628,Auckland,Wholesale,ACC11628
+C01629,Fictional Customer 01629,Auckland,E-commerce,ACC11629
+C01630,Fictional Customer 01630,Canterbury,E-commerce,ACC11630
+C01631,Fictional Customer 01631,Auckland,Hospitality,ACC11631
+C01632,Fictional Customer 01632,Waikato,Retail,ACC11632
+C01633,Fictional Customer 01633,Canterbury,E-commerce,ACC11633
+C01634,Fictional Customer 01634,Canterbury,Hospitality,ACC11634
+C01635,Fictional Customer 01635,Wellington,Retail,ACC11635
+C01636,Fictional Customer 01636,Wellington,Wholesale,ACC11636
+C01637,Fictional Customer 01637,Auckland,Wholesale,ACC11637
+C01638,Fictional Customer 01638,Waikato,Wholesale,ACC11638
+C01639,Fictional Customer 01639,Waikato,E-commerce,ACC11639
+C01640,Fictional Customer 01640,Waikato,Wholesale,ACC11640
+C01641,Fictional Customer 01641,Canterbury,E-commerce,ACC11641
+C01642,Fictional Customer 01642,Bay of Plenty,Retail,ACC11642
+C01643,Fictional Customer 01643,Canterbury,Retail,ACC11643
+C01644,Fictional Customer 01644,Bay of Plenty,Wholesale,ACC11644
+C01645,Fictional Customer 01645,Auckland,Wholesale,ACC11645
+C01646,Fictional Customer 01646,Bay of Plenty,Hospitality,ACC11646
+C01647,Fictional Customer 01647,Bay of Plenty,Hospitality,ACC11647
+C01648,Fictional Customer 01648,Waikato,Hospitality,ACC11648
+C01649,Fictional Customer 01649,Auckland,E-commerce,ACC11649
+C01650,Fictional Customer 01650,Wellington,E-commerce,ACC11650
+C01651,Fictional Customer 01651,Wellington,E-commerce,ACC11651
+C01652,Fictional Customer 01652,Waikato,E-commerce,ACC11652
+C01653,Fictional Customer 01653,Waikato,E-commerce,ACC11653
+C01654,Fictional Customer 01654,Wellington,Retail,ACC11654
+C01655,Fictional Customer 01655,Bay of Plenty,E-commerce,ACC11655
+C01656,Fictional Customer 01656,Waikato,Retail,ACC11656
+C01657,Fictional Customer 01657,Auckland,Hospitality,ACC11657
+C01658,Fictional Customer 01658,Wellington,Wholesale,ACC11658
+C01659,Fictional Customer 01659,Wellington,Retail,ACC11659
+C01660,Fictional Customer 01660,Wellington,Wholesale,ACC11660
+C01661,Fictional Customer 01661,Canterbury,Wholesale,ACC11661
+C01662,Fictional Customer 01662,Bay of Plenty,Retail,ACC11662
+C01663,Fictional Customer 01663,Bay of Plenty,Retail,ACC11663
+C01664,Fictional Customer 01664,Canterbury,Retail,ACC11664
+C01665,Fictional Customer 01665,Auckland,Retail,ACC11665
+C01666,Fictional Customer 01666,Wellington,Wholesale,ACC11666
+C01667,Fictional Customer 01667,Bay of Plenty,Retail,ACC11667
+C01668,Fictional Customer 01668,Waikato,E-commerce,ACC11668
+C01669,Fictional Customer 01669,Bay of Plenty,Retail,ACC11669
+C01670,Fictional Customer 01670,Wellington,E-commerce,ACC11670
+C01671,Fictional Customer 01671,Bay of Plenty,E-commerce,ACC11671
+C01672,Fictional Customer 01672,Auckland,Wholesale,ACC11672
+C01673,Fictional Customer 01673,Waikato,Retail,ACC11673
+C01674,Fictional Customer 01674,Wellington,Retail,ACC11674
+C01675,Fictional Customer 01675,Waikato,E-commerce,ACC11675
+C01676,Fictional Customer 01676,Waikato,E-commerce,ACC11676
+C01677,Fictional Customer 01677,Bay of Plenty,Retail,ACC11677
+C01678,Fictional Customer 01678,Wellington,Retail,ACC11678
+C01679,Fictional Customer 01679,Auckland,Wholesale,ACC11679
+C01680,Fictional Customer 01680,Auckland,E-commerce,ACC11680
+C01681,Fictional Customer 01681,Wellington,E-commerce,ACC11681
+C01682,Fictional Customer 01682,Auckland,Retail,ACC11682
+C01683,Fictional Customer 01683,Wellington,Wholesale,ACC11683
+C01684,Fictional Customer 01684,Wellington,E-commerce,ACC11684
+C01685,Fictional Customer 01685,Bay of Plenty,Wholesale,ACC11685
+C01686,Fictional Customer 01686,Waikato,Retail,ACC11686
+C01687,Fictional Customer 01687,Auckland,Wholesale,ACC11687
+C01688,Fictional Customer 01688,Canterbury,Retail,ACC11688
+C01689,Fictional Customer 01689,Auckland,Retail,ACC11689
+C01690,Fictional Customer 01690,Wellington,Hospitality,ACC11690
+C01691,Fictional Customer 01691,Wellington,E-commerce,ACC11691
+C01692,Fictional Customer 01692,Auckland,Retail,ACC11692
+C01693,Fictional Customer 01693,Bay of Plenty,Retail,ACC11693
+C01694,Fictional Customer 01694,Bay of Plenty,E-commerce,ACC11694
+C01695,Fictional Customer 01695,Canterbury,Hospitality,ACC11695
+C01696,Fictional Customer 01696,Bay of Plenty,E-commerce,ACC11696
+C01697,Fictional Customer 01697,Auckland,Wholesale,ACC11697
+C01698,Fictional Customer 01698,Waikato,E-commerce,ACC11698
+C01699,Fictional Customer 01699,Wellington,Retail,ACC11699
+C01700,Fictional Customer 01700,Auckland,E-commerce,ACC11700
+C01701,Fictional Customer 01701,Waikato,Retail,ACC11701
+C01702,Fictional Customer 01702,Canterbury,Retail,ACC11702
+C01703,Fictional Customer 01703,Wellington,Wholesale,ACC11703
+C01704,Fictional Customer 01704,Waikato,Wholesale,ACC11704
+C01705,Fictional Customer 01705,Bay of Plenty,Wholesale,ACC11705
+C01706,Fictional Customer 01706,Canterbury,Wholesale,ACC11706
+C01707,Fictional Customer 01707,Bay of Plenty,Retail,ACC11707
+C01708,Fictional Customer 01708,Waikato,Retail,ACC11708
+C01709,Fictional Customer 01709,Bay of Plenty,Retail,ACC11709
+C01710,Fictional Customer 01710,Waikato,Hospitality,ACC11710
+C01711,Fictional Customer 01711,Wellington,Hospitality,ACC11711
+C01712,Fictional Customer 01712,Canterbury,Retail,ACC11712
+C01713,Fictional Customer 01713,Auckland,Retail,ACC11713
+C01714,Fictional Customer 01714,Wellington,Wholesale,ACC11714
+C01715,Fictional Customer 01715,Auckland,Wholesale,ACC11715
+C01716,Fictional Customer 01716,Canterbury,E-commerce,ACC11716
+C01717,Fictional Customer 01717,Auckland,E-commerce,ACC11717
+C01718,Fictional Customer 01718,Bay of Plenty,Retail,ACC11718
+C01719,Fictional Customer 01719,Canterbury,E-commerce,ACC11719
+C01720,Fictional Customer 01720,Bay of Plenty,Hospitality,ACC11720
+C01721,Fictional Customer 01721,Auckland,E-commerce,ACC11721
+C01722,Fictional Customer 01722,Wellington,Retail,ACC11722
+C01723,Fictional Customer 01723,Wellington,Wholesale,ACC11723
+C01724,Fictional Customer 01724,Canterbury,E-commerce,ACC11724
+C01725,Fictional Customer 01725,Wellington,Wholesale,ACC11725
+C01726,Fictional Customer 01726,Auckland,E-commerce,ACC11726
+C01727,Fictional Customer 01727,Waikato,E-commerce,ACC11727
+C01728,Fictional Customer 01728,Waikato,E-commerce,ACC11728
+C01729,Fictional Customer 01729,Auckland,E-commerce,ACC11729
+C01730,Fictional Customer 01730,Bay of Plenty,E-commerce,ACC11730
+C01731,Fictional Customer 01731,Canterbury,Retail,ACC11731
+C01732,Fictional Customer 01732,Bay of Plenty,Wholesale,ACC11732
+C01733,Fictional Customer 01733,Waikato,E-commerce,ACC11733
+C01734,Fictional Customer 01734,Bay of Plenty,Wholesale,ACC11734
+C01735,Fictional Customer 01735,Wellington,Wholesale,ACC11735
+C01736,Fictional Customer 01736,Wellington,Retail,ACC11736
+C01737,Fictional Customer 01737,Waikato,Retail,ACC11737
+C01738,Fictional Customer 01738,Waikato,Retail,ACC11738
+C01739,Fictional Customer 01739,Canterbury,E-commerce,ACC11739
+C01740,Fictional Customer 01740,Auckland,Hospitality,ACC11740
+C01741,Fictional Customer 01741,Auckland,Hospitality,ACC11741
+C01742,Fictional Customer 01742,Bay of Plenty,Retail,ACC11742
+C01743,Fictional Customer 01743,Waikato,Wholesale,ACC11743
+C01744,Fictional Customer 01744,Wellington,Retail,ACC11744
+C01745,Fictional Customer 01745,Bay of Plenty,Retail,ACC11745
+C01746,Fictional Customer 01746,Wellington,E-commerce,ACC11746
+C01747,Fictional Customer 01747,Wellington,Wholesale,ACC11747
+C01748,Fictional Customer 01748,Bay of Plenty,Hospitality,ACC11748
+C01749,Fictional Customer 01749,Auckland,Retail,ACC11749
+C01750,Fictional Customer 01750,Waikato,Retail,ACC11750
+C01751,Fictional Customer 01751,Bay of Plenty,Retail,ACC11751
+C01752,Fictional Customer 01752,Bay of Plenty,Retail,ACC11752
+C01753,Fictional Customer 01753,Wellington,Hospitality,ACC11753
+C01754,Fictional Customer 01754,Canterbury,E-commerce,ACC11754
+C01755,Fictional Customer 01755,Bay of Plenty,Retail,ACC11755
+C01756,Fictional Customer 01756,Wellington,Retail,ACC11756
+C01757,Fictional Customer 01757,Waikato,Retail,ACC11757
+C01758,Fictional Customer 01758,Auckland,Retail,ACC11758
+C01759,Fictional Customer 01759,Bay of Plenty,Retail,ACC11759
+C01760,Fictional Customer 01760,Wellington,E-commerce,ACC11760
+C01761,Fictional Customer 01761,Waikato,Retail,ACC11761
+C01762,Fictional Customer 01762,Waikato,Wholesale,ACC11762
+C01763,Fictional Customer 01763,Waikato,Wholesale,ACC11763
+C01764,Fictional Customer 01764,Wellington,Wholesale,ACC11764
+C01765,Fictional Customer 01765,Wellington,Wholesale,ACC11765
+C01766,Fictional Customer 01766,Waikato,Retail,ACC11766
+C01767,Fictional Customer 01767,Auckland,Retail,ACC11767
+C01768,Fictional Customer 01768,Auckland,Wholesale,ACC11768
+C01769,Fictional Customer 01769,Canterbury,Wholesale,ACC11769
+C01770,Fictional Customer 01770,Waikato,Wholesale,ACC11770
+C01771,Fictional Customer 01771,Canterbury,Hospitality,ACC11771
+C01772,Fictional Customer 01772,Canterbury,Retail,ACC11772
+C01773,Fictional Customer 01773,Canterbury,Retail,ACC11773
+C01774,Fictional Customer 01774,Bay of Plenty,Hospitality,ACC11774
+C01775,Fictional Customer 01775,Canterbury,Retail,ACC11775
+C01776,Fictional Customer 01776,Canterbury,Wholesale,ACC11776
+C01777,Fictional Customer 01777,Bay of Plenty,Wholesale,ACC11777
+C01778,Fictional Customer 01778,Waikato,Hospitality,ACC11778
+C01779,Fictional Customer 01779,Bay of Plenty,Retail,ACC11779
+C01780,Fictional Customer 01780,Canterbury,Retail,ACC11780
+C01781,Fictional Customer 01781,Wellington,Wholesale,ACC11781
+C01782,Fictional Customer 01782,Waikato,Retail,ACC11782
+C01783,Fictional Customer 01783,Canterbury,Retail,ACC11783
+C01784,Fictional Customer 01784,Bay of Plenty,Retail,ACC11784
+C01785,Fictional Customer 01785,Waikato,E-commerce,ACC11785
+C01786,Fictional Customer 01786,Canterbury,Wholesale,ACC11786
+C01787,Fictional Customer 01787,Canterbury,Hospitality,ACC11787
+C01788,Fictional Customer 01788,Auckland,Wholesale,ACC11788
+C01789,Fictional Customer 01789,Auckland,Hospitality,ACC11789
+C01790,Fictional Customer 01790,Bay of Plenty,E-commerce,ACC11790
+C01791,Fictional Customer 01791,Bay of Plenty,E-commerce,ACC11791
+C01792,Fictional Customer 01792,Auckland,Retail,ACC11792
+C01793,Fictional Customer 01793,Auckland,Wholesale,ACC11793
+C01794,Fictional Customer 01794,Waikato,E-commerce,ACC11794
+C01795,Fictional Customer 01795,Auckland,Retail,ACC11795
+C01796,Fictional Customer 01796,Wellington,Wholesale,ACC11796
+C01797,Fictional Customer 01797,Auckland,E-commerce,ACC11797
+C01798,Fictional Customer 01798,Bay of Plenty,Retail,ACC11798
+C01799,Fictional Customer 01799,Wellington,Retail,ACC11799
+C01800,Fictional Customer 01800,Bay of Plenty,Retail,ACC11800
+C01801,Fictional Customer 01801,Wellington,Wholesale,ACC11801
+C01802,Fictional Customer 01802,Auckland,Wholesale,ACC11802
+C01803,Fictional Customer 01803,Waikato,Wholesale,ACC11803
+C01804,Fictional Customer 01804,Wellington,Wholesale,ACC11804
+C01805,Fictional Customer 01805,Canterbury,Wholesale,ACC11805
+C01806,Fictional Customer 01806,Wellington,Retail,ACC11806
+C01807,Fictional Customer 01807,Waikato,E-commerce,ACC11807
+C01808,Fictional Customer 01808,Wellington,E-commerce,ACC11808
+C01809,Fictional Customer 01809,Wellington,Wholesale,ACC11809
+C01810,Fictional Customer 01810,Bay of Plenty,Retail,ACC11810
+C01811,Fictional Customer 01811,Bay of Plenty,Hospitality,ACC11811
+C01812,Fictional Customer 01812,Waikato,Hospitality,ACC11812
+C01813,Fictional Customer 01813,Auckland,Hospitality,ACC11813
+C01814,Fictional Customer 01814,Waikato,Retail,ACC11814
+C01815,Fictional Customer 01815,Wellington,Wholesale,ACC11815
+C01816,Fictional Customer 01816,Auckland,Retail,ACC11816
+C01817,Fictional Customer 01817,Canterbury,Wholesale,ACC11817
+C01818,Fictional Customer 01818,Canterbury,E-commerce,ACC11818
+C01819,Fictional Customer 01819,Bay of Plenty,Retail,ACC11819
+C01820,Fictional Customer 01820,Bay of Plenty,Retail,ACC11820
+C01821,Fictional Customer 01821,Wellington,Wholesale,ACC11821
+C01822,Fictional Customer 01822,Waikato,Wholesale,ACC11822
+C01823,Fictional Customer 01823,Bay of Plenty,Retail,ACC11823
+C01824,Fictional Customer 01824,Canterbury,E-commerce,ACC11824
+C01825,Fictional Customer 01825,Canterbury,E-commerce,ACC11825
+C01826,Fictional Customer 01826,Wellington,E-commerce,ACC11826
+C01827,Fictional Customer 01827,Bay of Plenty,Wholesale,ACC11827
+C01828,Fictional Customer 01828,Auckland,Retail,ACC11828
+C01829,Fictional Customer 01829,Waikato,Retail,ACC11829
+C01830,Fictional Customer 01830,Auckland,Retail,ACC11830
+C01831,Fictional Customer 01831,Waikato,E-commerce,ACC11831
+C01832,Fictional Customer 01832,Bay of Plenty,Retail,ACC11832
+C01833,Fictional Customer 01833,Auckland,E-commerce,ACC11833
+C01834,Fictional Customer 01834,Auckland,E-commerce,ACC11834
+C01835,Fictional Customer 01835,Wellington,Wholesale,ACC11835
+C01836,Fictional Customer 01836,Canterbury,Hospitality,ACC11836
+C01837,Fictional Customer 01837,Wellington,Retail,ACC11837
+C01838,Fictional Customer 01838,Auckland,Wholesale,ACC11838
+C01839,Fictional Customer 01839,Auckland,Hospitality,ACC11839
+C01840,Fictional Customer 01840,Waikato,Retail,ACC11840
+C01841,Fictional Customer 01841,Wellington,Retail,ACC11841
+C01842,Fictional Customer 01842,Canterbury,Retail,ACC11842
+C01843,Fictional Customer 01843,Canterbury,E-commerce,ACC11843
+C01844,Fictional Customer 01844,Bay of Plenty,Wholesale,ACC11844
+C01845,Fictional Customer 01845,Bay of Plenty,E-commerce,ACC11845
+C01846,Fictional Customer 01846,Auckland,E-commerce,ACC11846
+C01847,Fictional Customer 01847,Canterbury,E-commerce,ACC11847
+C01848,Fictional Customer 01848,Waikato,E-commerce,ACC11848
+C01849,Fictional Customer 01849,Bay of Plenty,E-commerce,ACC11849
+C01850,Fictional Customer 01850,Bay of Plenty,Wholesale,ACC11850
+C01851,Fictional Customer 01851,Auckland,E-commerce,ACC11851
+C01852,Fictional Customer 01852,Auckland,Wholesale,ACC11852
+C01853,Fictional Customer 01853,Auckland,Retail,ACC11853
+C01854,Fictional Customer 01854,Bay of Plenty,E-commerce,ACC11854
+C01855,Fictional Customer 01855,Canterbury,Retail,ACC11855
+C01856,Fictional Customer 01856,Auckland,Wholesale,ACC11856
+C01857,Fictional Customer 01857,Bay of Plenty,Wholesale,ACC11857
+C01858,Fictional Customer 01858,Canterbury,Hospitality,ACC11858
+C01859,Fictional Customer 01859,Bay of Plenty,E-commerce,ACC11859
+C01860,Fictional Customer 01860,Auckland,E-commerce,ACC11860
+C01861,Fictional Customer 01861,Wellington,Wholesale,ACC11861
+C01862,Fictional Customer 01862,Waikato,Wholesale,ACC11862
+C01863,Fictional Customer 01863,Waikato,E-commerce,ACC11863
+C01864,Fictional Customer 01864,Canterbury,Hospitality,ACC11864
+C01865,Fictional Customer 01865,Wellington,Retail,ACC11865
+C01866,Fictional Customer 01866,Waikato,Retail,ACC11866
+C01867,Fictional Customer 01867,Auckland,Retail,ACC11867
+C01868,Fictional Customer 01868,Waikato,Retail,ACC11868
+C01869,Fictional Customer 01869,Wellington,Wholesale,ACC11869
+C01870,Fictional Customer 01870,Waikato,E-commerce,ACC11870
+C01871,Fictional Customer 01871,Wellington,Hospitality,ACC11871
+C01872,Fictional Customer 01872,Auckland,Hospitality,ACC11872
+C01873,Fictional Customer 01873,Bay of Plenty,Hospitality,ACC11873
+C01874,Fictional Customer 01874,Auckland,Retail,ACC11874
+C01875,Fictional Customer 01875,Canterbury,Wholesale,ACC11875
+C01876,Fictional Customer 01876,Bay of Plenty,Retail,ACC11876
+C01877,Fictional Customer 01877,Wellington,Retail,ACC11877
+C01878,Fictional Customer 01878,Auckland,E-commerce,ACC11878
+C01879,Fictional Customer 01879,Auckland,Hospitality,ACC11879
+C01880,Fictional Customer 01880,Auckland,Wholesale,ACC11880
+C01881,Fictional Customer 01881,Canterbury,Hospitality,ACC11881
+C01882,Fictional Customer 01882,Waikato,Wholesale,ACC11882
+C01883,Fictional Customer 01883,Wellington,Hospitality,ACC11883
+C01884,Fictional Customer 01884,Canterbury,E-commerce,ACC11884
+C01885,Fictional Customer 01885,Bay of Plenty,Retail,ACC11885
+C01886,Fictional Customer 01886,Auckland,E-commerce,ACC11886
+C01887,Fictional Customer 01887,Wellington,E-commerce,ACC11887
+C01888,Fictional Customer 01888,Waikato,E-commerce,ACC11888
+C01889,Fictional Customer 01889,Wellington,Wholesale,ACC11889
+C01890,Fictional Customer 01890,Bay of Plenty,E-commerce,ACC11890
+C01891,Fictional Customer 01891,Canterbury,E-commerce,ACC11891
+C01892,Fictional Customer 01892,Bay of Plenty,Retail,ACC11892
+C01893,Fictional Customer 01893,Wellington,Retail,ACC11893
+C01894,Fictional Customer 01894,Auckland,E-commerce,ACC11894
+C01895,Fictional Customer 01895,Bay of Plenty,Retail,ACC11895
+C01896,Fictional Customer 01896,Bay of Plenty,Retail,ACC11896
+C01897,Fictional Customer 01897,Waikato,Hospitality,ACC11897
+C01898,Fictional Customer 01898,Wellington,Retail,ACC11898
+C01899,Fictional Customer 01899,Canterbury,Retail,ACC11899
+C01900,Fictional Customer 01900,Waikato,Retail,ACC11900
+C01901,Fictional Customer 01901,Auckland,Retail,ACC11901
+C01902,Fictional Customer 01902,Auckland,E-commerce,ACC11902
+C01903,Fictional Customer 01903,Bay of Plenty,Retail,ACC11903
+C01904,Fictional Customer 01904,Bay of Plenty,Retail,ACC11904
+C01905,Fictional Customer 01905,Wellington,Hospitality,ACC11905
+C01906,Fictional Customer 01906,Wellington,Retail,ACC11906
+C01907,Fictional Customer 01907,Waikato,E-commerce,ACC11907
+C01908,Fictional Customer 01908,Wellington,E-commerce,ACC11908
+C01909,Fictional Customer 01909,Auckland,Wholesale,ACC11909
+C01910,Fictional Customer 01910,Auckland,Wholesale,ACC11910
+C01911,Fictional Customer 01911,Auckland,E-commerce,ACC11911
+C01912,Fictional Customer 01912,Wellington,Retail,ACC11912
+C01913,Fictional Customer 01913,Waikato,E-commerce,ACC11913
+C01914,Fictional Customer 01914,Auckland,Retail,ACC11914
+C01915,Fictional Customer 01915,Wellington,Wholesale,ACC11915
+C01916,Fictional Customer 01916,Canterbury,Retail,ACC11916
+C01917,Fictional Customer 01917,Bay of Plenty,Retail,ACC11917
+C01918,Fictional Customer 01918,Bay of Plenty,E-commerce,ACC11918
+C01919,Fictional Customer 01919,Waikato,Wholesale,ACC11919
+C01920,Fictional Customer 01920,Canterbury,Retail,ACC11920
+C01921,Fictional Customer 01921,Canterbury,E-commerce,ACC11921
+C01922,Fictional Customer 01922,Auckland,Hospitality,ACC11922
+C01923,Fictional Customer 01923,Waikato,Retail,ACC11923
+C01924,Fictional Customer 01924,Wellington,Retail,ACC11924
+C01925,Fictional Customer 01925,Canterbury,Retail,ACC11925
+C01926,Fictional Customer 01926,Auckland,E-commerce,ACC11926
+C01927,Fictional Customer 01927,Wellington,E-commerce,ACC11927
+C01928,Fictional Customer 01928,Wellington,Hospitality,ACC11928
+C01929,Fictional Customer 01929,Bay of Plenty,Wholesale,ACC11929
+C01930,Fictional Customer 01930,Bay of Plenty,Retail,ACC11930
+C01931,Fictional Customer 01931,Auckland,Hospitality,ACC11931
+C01932,Fictional Customer 01932,Canterbury,Retail,ACC11932
+C01933,Fictional Customer 01933,Waikato,E-commerce,ACC11933
+C01934,Fictional Customer 01934,Canterbury,Retail,ACC11934
+C01935,Fictional Customer 01935,Canterbury,Retail,ACC11935
+C01936,Fictional Customer 01936,Bay of Plenty,Hospitality,ACC11936
+C01937,Fictional Customer 01937,Wellington,Hospitality,ACC11937
+C01938,Fictional Customer 01938,Auckland,Retail,ACC11938
+C01939,Fictional Customer 01939,Wellington,Wholesale,ACC11939
+C01940,Fictional Customer 01940,Bay of Plenty,E-commerce,ACC11940
+C01941,Fictional Customer 01941,Canterbury,Retail,ACC11941
+C01942,Fictional Customer 01942,Waikato,Retail,ACC11942
+C01943,Fictional Customer 01943,Wellington,Retail,ACC11943
+C01944,Fictional Customer 01944,Auckland,Wholesale,ACC11944
+C01945,Fictional Customer 01945,Waikato,Hospitality,ACC11945
+C01946,Fictional Customer 01946,Auckland,Retail,ACC11946
+C01947,Fictional Customer 01947,Bay of Plenty,Wholesale,ACC11947
+C01948,Fictional Customer 01948,Canterbury,Hospitality,ACC11948
+C01949,Fictional Customer 01949,Canterbury,Hospitality,ACC11949
+C01950,Fictional Customer 01950,Canterbury,E-commerce,ACC11950
+C01951,Fictional Customer 01951,Bay of Plenty,Wholesale,ACC11951
+C01952,Fictional Customer 01952,Wellington,Wholesale,ACC11952
+C01953,Fictional Customer 01953,Bay of Plenty,Retail,ACC11953
+C01954,Fictional Customer 01954,Waikato,E-commerce,ACC11954
+C01955,Fictional Customer 01955,Wellington,Retail,ACC11955
+C01956,Fictional Customer 01956,Auckland,Retail,ACC11956
+C01957,Fictional Customer 01957,Auckland,E-commerce,ACC11957
+C01958,Fictional Customer 01958,Wellington,E-commerce,ACC11958
+C01959,Fictional Customer 01959,Canterbury,Wholesale,ACC11959
+C01960,Fictional Customer 01960,Auckland,Retail,ACC11960
+C01961,Fictional Customer 01961,Waikato,E-commerce,ACC11961
+C01962,Fictional Customer 01962,Auckland,Retail,ACC11962
+C01963,Fictional Customer 01963,Wellington,Retail,ACC11963
+C01964,Fictional Customer 01964,Bay of Plenty,Wholesale,ACC11964
+C01965,Fictional Customer 01965,Bay of Plenty,Retail,ACC11965
+C01966,Fictional Customer 01966,Bay of Plenty,Wholesale,ACC11966
+C01967,Fictional Customer 01967,Waikato,Retail,ACC11967
+C01968,Fictional Customer 01968,Bay of Plenty,Wholesale,ACC11968
+C01969,Fictional Customer 01969,Waikato,E-commerce,ACC11969
+C01970,Fictional Customer 01970,Bay of Plenty,Retail,ACC11970
+C01971,Fictional Customer 01971,Auckland,Wholesale,ACC11971
+C01972,Fictional Customer 01972,Waikato,E-commerce,ACC11972
+C01973,Fictional Customer 01973,Canterbury,Hospitality,ACC11973
+C01974,Fictional Customer 01974,Auckland,Wholesale,ACC11974
+C01975,Fictional Customer 01975,Canterbury,E-commerce,ACC11975
+C01976,Fictional Customer 01976,Wellington,Retail,ACC11976
+C01977,Fictional Customer 01977,Wellington,Wholesale,ACC11977
+C01978,Fictional Customer 01978,Wellington,E-commerce,ACC11978
+C01979,Fictional Customer 01979,Bay of Plenty,Wholesale,ACC11979
+C01980,Fictional Customer 01980,Wellington,Hospitality,ACC11980
+C01981,Fictional Customer 01981,Bay of Plenty,E-commerce,ACC11981
+C01982,Fictional Customer 01982,Bay of Plenty,Wholesale,ACC11982
+C01983,Fictional Customer 01983,Auckland,Wholesale,ACC11983
+C01984,Fictional Customer 01984,Bay of Plenty,Wholesale,ACC11984
+C01985,Fictional Customer 01985,Wellington,Wholesale,ACC11985
+C01986,Fictional Customer 01986,Waikato,Retail,ACC11986
+C01987,Fictional Customer 01987,Auckland,Wholesale,ACC11987
+C01988,Fictional Customer 01988,Wellington,E-commerce,ACC11988
+C01989,Fictional Customer 01989,Auckland,E-commerce,ACC11989
+C01990,Fictional Customer 01990,Bay of Plenty,E-commerce,ACC11990
+C01991,Fictional Customer 01991,Waikato,Retail,ACC11991
+C01992,Fictional Customer 01992,Bay of Plenty,Retail,ACC11992
+C01993,Fictional Customer 01993,Waikato,Hospitality,ACC11993
+C01994,Fictional Customer 01994,Waikato,Wholesale,ACC11994
+C01995,Fictional Customer 01995,Canterbury,Hospitality,ACC11995
+C01996,Fictional Customer 01996,Wellington,Wholesale,ACC11996
+C01997,Fictional Customer 01997,Canterbury,E-commerce,ACC11997
+C01998,Fictional Customer 01998,Auckland,Retail,ACC11998
+C01999,Fictional Customer 01999,Waikato,Retail,ACC11999
+C02000,Fictional Customer 02000,Auckland,Hospitality,ACC12000

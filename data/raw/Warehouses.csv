@@ -1,0 +1,6 @@
+WarehouseID,WarehouseName,City,Region,Plant,StorageLocation
+WH01,Auckland DC,Mangere,Auckland,NZ01,SL001
+WH02,Hamilton DC,Te Rapa,Waikato,NZ02,SL002
+WH03,Tauranga DC,Mount Maunganui,Bay of Plenty,NZ03,SL003
+WH04,Wellington DC,Seaview,Wellington,NZ04,SL004
+WH05,Christchurch DC,Hornby,Canterbury,NZ05,SL005
